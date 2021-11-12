@@ -30,10 +30,15 @@ def grab(url):
             break
         else:
             tuner += 5
+    streams = s.get(link[start:end]).text.split('#EXT')
+    hd = streams[-1].strip()
+    st = hd.find('http')
+    print(hd[st:].strip())
         #print(f"{link[start : end]}")
 
 print('#EXTM3U')
-print('#EXT-X-INDEPENDENT-SEGMENTS')
+print('#EXT-X-VERSION:3')
+print('#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000')
 s = requests.Session()
 with open('../polimernews_info.txt') as f:
     for line in f:
