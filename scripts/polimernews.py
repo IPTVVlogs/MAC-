@@ -37,8 +37,7 @@ def grab(url):
     #print(f"{link[start : end]}")
 
 print('#EXTM3U')
-print('#EXT-X-VERSION:3')
-print('#EXT-X-STREAM-INF:PROGRAM-ID=1')
+print('#EXT-X-INDEPENDENT-SEGMENTS')
 s = requests.Session()
 with open('../polimernews_info.txt') as f:
     for line in f:
