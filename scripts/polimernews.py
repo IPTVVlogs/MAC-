@@ -30,8 +30,7 @@ def grab(url):
             break
         else:
             tuner += 5
-    streams = s.get(link[start:end]).text.split('#EXT')
-    #print(f"{link[start : end]}")
+        #print(f"{link[start : end]}")
 
 print('#EXTM3U')
 print('#EXT-X-INDEPENDENT-SEGMENTS')
