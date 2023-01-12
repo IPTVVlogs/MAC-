@@ -44,3 +44,5 @@ https://servertv.ml/JIO/live.php?c=Jio_Football_Malayalam_HD&q=800&e=.m3u8
 https://servertv.ml/JIO/live.php?c=Manorama_News&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://sund-images.sunnxt.com/30835/500x750_SuryaComedy_30835_4e038a42-fb24-467e-a388-4fd9ec1b108d.jpg" group-title="Entertainment",Surya Comedy 
 https://noxtv.ml/API/SUNNEXT/master.m3u8/?id=30835
+#EXTINF:-1 tvg-id="" tvg-logo="https://sund-images.sunnxt.com/26575/500x750_SuryaMusic_26575_cc1fcfcf-7931-4b87-9ef7-1f74e60d00f7.jpg" group-title="Entertainment",Surya Music
+https://noxtv.ml/API/SUNNEXT/master.m3u8?id=26575
