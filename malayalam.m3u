@@ -12,6 +12,8 @@ https://3an3.short.gy/flowerstv.m3u8
 https://yupptvliveten2.yuppcdn.net/280722/smil:asianetmovies.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SuryaMovies.in" tvg-logo="https://i.imgur.com/jGyUuVU.jpg" group-title="Entertainment",Surya Movies
 https://noxtv.ml/API/SUNNEXT/master.m3u8?id=9019
+#EXTINF:-1 tvg-id="AsianetNews.in" tvg-logo="https://i.imgur.com/nwwLQ6l.png" group-title="Entertainment",Kochu TV
+https://noxtv.ml/API/SUNNEXT/master.m3u8/?id=26573
 #EXTINF:-1 tvg-id="KairaliTV.in" tvg-logo="https://i.imgur.com/kVCJThg.jpg" group-title="Entertainment",Kairali TV
 https://lineartv.neestream.net/neestream_01/kairalitv/index.m3u8?token=693400
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://i.imgur.com/IxBTtib.jpg" group-title="Entertainment",WE
@@ -26,7 +28,15 @@ https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/chunks.m3u8
 https://idvd.multitvsolution.com/idvo/kappatv.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKids.in" tvg-logo="https://i.imgur.com/1T8F62O.png" group-title="Entertainment",Discovery Kids
 https://d2p7m6q4.rocketcdn.me/delta/discovery/api/Discovery_Kids.m3u8
+#EXTINF:-1 tvg-id="AsianetNews.in" tvg-logo="https://i.imgur.com/hqrMJAZ.jpg" group-title="Entertainment",Asianet News
+https://servertv.ml/JIO/live.php?c=Asianet_News&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="AsianetMiddleEast.in" tvg-logo="https://i.imgur.com/fA38Vk4.jpg" group-title="Entertainment",Mathrubhumi News
 https://mathrubhumividgyor.pc.cdn.bitgravity.com/mathrubhumi-origin/liveabr/mathrubhumi-origin/live_240p/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id="AsianetNews.in" tvg-logo="https://i.imgur.com/3SDjYrp.png" group-title="Entertainment",Enlight News
 https://live.enlightnews.com/live/enlightnews/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AUx6cJz.png" group-title="Entertainment",Nick Malayalam 
+https://servertv.ml/JIO/live.php?c=Nick_Malayalam&q=800&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4Ec6BrS.jpg" group-title="Entertainment",Sonic Nick Malayalam 
+https://servertv.ml/JIO/live.php?c=Sonic_Malayalam&q=800&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://d2p7m6q4.rocketcdn.me/wp-content/uploads/2020/11/jiofootballhd-185x278.webp" group-title="Entertainment",Jio Football Malayalam HD 
+https://servertv.ml/JIO/live.php?c=Jio_Football_Malayalam_HD&q=800&e=.m3u8
