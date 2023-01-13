@@ -46,3 +46,11 @@ https://servertv.ml/JIO/live.php?c=Manorama_News&q=800&e=.m3u8
 https://noxtv.ml/API/SUNNEXT/master.m3u8/?id=30835
 #EXTINF:-1 tvg-id="SuryaMusic.in" tvg-logo="https://sund-images.sunnxt.com/26575/500x750_SuryaMusic_26575_cc1fcfcf-7931-4b87-9ef7-1f74e60d00f7.jpg" group-title="Entertainment",Surya Music
 https://noxtv.ml/API/SUNNEXT/master.m3u8?id=26575
+#EXTINF:-1 tvg-id="RajMusix.in" tvg-logo="https://i.imgur.com/IaQb4wm.jpg" group-title="Entertainment",Raj Music Malayalam
+https://servertv.ml/JIO/live.php?c=Raj_Music_Malayalam&q=800&e=.m3u8
+#EXTINF:-1 tvg-id="DDMalayalam.in" tvg-logo="https://i.imgur.com/iWDUY9d.jpg" group-title="Entertainment",DD Malayalam
+https://servertv.ml/JIO/live.php?c=DD_Malayalam&q=800&e=.m3u8
+#EXTINF:-1 tvg-id="DDSports.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/DVag2TSu.jpg" group-title="Entertainment",DD Sports
+https://servertv.ml/JIO/live.php?c=DD_Sports&q=800&e=.m3u8
+#EXTINF:-1 tvg-id="SonyYAY.in" tvg-logo="https://i.imgur.com/3r99P9m.png" group-title="Entertainment",Sony YAY
+https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
