@@ -34,9 +34,11 @@ https://mathrubhumividgyor.pc.cdn.bitgravity.com/mathrubhumi-origin/liveabr/math
 https://live.enlightnews.com/live/enlightnews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Nick.in" tvg-logo="https://i.imgur.com/AUx6cJz.png" group-title="Entertainment",Nick Malayalam 
 https://servertv.ml/JIO/live.php?c=Nick_Malayalam&q=800&e=.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKids.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="Entertainment",Discovery Kids 
+https://varun-iptv.netlify.app/m3u/discoverykidsmalayalam.m3u8
 #EXTINF:-1 tvg-id="SonicNickelodeon.in" tvg-logo="https://i.imgur.com/4Ec6BrS.jpg" group-title="Entertainment",Sonic Nick Malayalam 
 https://servertv.ml/JIO/live.php?c=Sonic_Malayalam&q=800&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://d2p7m6q4.rocketcdn.me/wp-content/uploads/2020/11/jiofootballhd-185x278.webp" group-title="Entertainment",Jio Football Malayalam HD 
+#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_Malayalam_HD.png" group-title="Entertainment",Jio Football Malayalam HD 
 https://servertv.ml/JIO/live.php?c=Jio_Football_Malayalam_HD&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="ManoramaNews.in" tvg-logo="https://i.imgur.com/rwAIblA.jpg" group-title="Entertainment",Manorama News
 https://servertv.ml/JIO/live.php?c=Manorama_News&q=800&e=.m3u8
