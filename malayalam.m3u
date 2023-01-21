@@ -38,6 +38,8 @@ https://servertv.ml/JIO/live.php?c=Nick_Malayalam&q=800&e=.m3u8
 https://varun-iptv.netlify.app/m3u/discoverykidsmalayalam.m3u8
 #EXTINF:-1 tvg-id="SonicNickelodeon.in" tvg-logo="https://i.imgur.com/4Ec6BrS.jpg" group-title="Entertainment",Sonic Nick Malayalam 
 https://servertv.ml/JIO/live.php?c=Sonic_Malayalam&q=800&e=.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" group-title="Entertainment",Cartoon Network
+https://servertv.ml/JIO/live.php?c=Cartoon_Network_Hindi&q=600&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_Malayalam_HD.png" group-title="Entertainment",Jio Football Malayalam HD 
 https://servertv.ml/JIO/live.php?c=Jio_Football_Malayalam_HD&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="ManoramaNews.in" tvg-logo="https://i.imgur.com/rwAIblA.jpg" group-title="Entertainment",Manorama News
