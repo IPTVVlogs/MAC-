@@ -11,7 +11,7 @@ https://3an3.short.gy/flowerstv.m3u8
 #EXTINF:-1 tvg-id="AsianetMovies.in" tvg-logo="https://i.imgur.com/23ktt7p.png" group-title="Entertainment",Asianet Movies
 https://yupptvliveten2.yuppcdn.net/280722/smil:asianetmovies.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SuryaMovies.in" tvg-logo="https://i.imgur.com/jGyUuVU.jpg" group-title="Entertainment",Surya Movies
-https://noxtv.ml/API/SUNNEXT/master.m3u8?id=9019
+https://yuppusacloriginvt.akamaized.net/190722/smil:suryamovies.smil/chunklist_b1928000.m3u8?hdntl=exp=1675179481~acl=*~data=hdntl~hmac=3ed90c129693f57da111ff72a77fca14160694bf26456ab44d590a20ac622313
 #EXTINF:-1 tvg-id="KochuTV.in" tvg-logo="https://i.imgur.com/nwwLQ6l.png" group-title="Entertainment",Kochu TV
 https://noxtv.ml/API/SUNNEXT/master.m3u8/?id=26573
 #EXTINF:-1 tvg-id="KairaliTV.in" tvg-logo="https://i.imgur.com/kVCJThg.jpg" group-title="Entertainment",Kairali TV
