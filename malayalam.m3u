@@ -41,7 +41,7 @@ https://servertv.ml/JIO/live.php?c=Sonic_Malayalam&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" group-title="Entertainment",Cartoon Network
 https://servertv.ml/JIO/live.php?c=Cartoon_Network_Hindi&q=600&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_Malayalam_HD.png" group-title="Entertainment",ISL English 
-https://spottonefootball.akamaized.net/hls/live/2029234/2759505_3055843/hdntl=exp=1675523302~acl=%2f*~data=hdntl~hmac=0bc4c53556740eafce0c2ffe2144fbd7e827932b2f3d6e21e85457f8bd732274/3055843_2000.m3u8?cid=28387&mid=35792677&ecid=3055843&pid=5&dtid=1&ident=675083087820&content=1574751
+https://scontent.fmct2-3.fna.fbcdn.net/hvideo-ncg-rva/_nc_cat-101/_nc_sr_t-4/v/rASeTpv3yVQp8GkczzKoy_0sejYUMAYdRrFzdKrUC4MQB5A/_nc_ohc-E00kJryZo1QAX9U0n5c/live-dash/dash-abr-ibr-audio/141237315467983.mpd?ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AfAbpdzOCwgkU-SchUlqqT4R5fkmpPVs7FiaPR3JbXzjig&oe=63DE862D
 #EXTINF:-1 tvg-id="ManoramaNews.in" tvg-logo="https://i.imgur.com/rwAIblA.jpg" group-title="Entertainment",Manorama News
 https://servertv.ml/JIO/live.php?c=Manorama_News&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="SuryaComedy.in" tvg-logo="https://sund-images.sunnxt.com/30835/500x750_SuryaComedy_30835_4e038a42-fb24-467e-a388-4fd9ec1b108d.jpg" group-title="Entertainment",Surya Comedy 
