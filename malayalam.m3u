@@ -19,7 +19,7 @@ http://ky-iptv.com:80/brad2022/brad2022/786451.m3u8
 #EXTINF:-1 tvg-id="KochuTV.in" tvg-logo="https://i.imgur.com/nwwLQ6l.png" group-title="Entertainment",Kochu TV
 https://noxtv.ml/API/SUNNEXT/master.m3u8/?id=26573
 #EXTINF:-1 tvg-id="KairaliTV.in" tvg-logo="https://i.imgur.com/kVCJThg.jpg" group-title="Entertainment",Kairali TV
-https://servertv.ml/JIO/live.php?c=Kairali_TV&q=800&e=.m3u8
+http://ky-iptv.com:80/brad2022/brad2022/786455.m3u8
 #EXTINF:-1 tvg-id="WeTV.in" tvg-logo="https://i.imgur.com/IxBTtib.jpg" group-title="Entertainment",We TV
 https://servertv.ml/JIO/live.php?c=Kairali_WE_TV&q=600&e=.m3u8
 #EXTINF:-1 tvg-id="AmritaTV.in" tvg-logo="https://i.imgur.com/UqxNPMZ.jpg" group-title="Entertainment",Amrita TV 
