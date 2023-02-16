@@ -3,7 +3,7 @@ https://yupptvliveten2.yuppcdn.net/280722/smil:starasianet.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Surya.in" tvg-logo="https://i.imgur.com/my7xncW.jpg" group-title="Entertainment",Surya
 https://yupptvliveten2.yuppcdn.net/280722/smil:suryahd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Zee_Keralam_TV.jpg" group-title="Entertainment",Zee Keralam HD
-https://zee5.yashrajmod.online/api.php?c=0-9-129
+http://212.224.84.217:2200/R-EX/MALAYALAM_ZEE_KERALAM_HD-in/index.m3u8?token=token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
 #EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-logo="https://i.imgur.com/uV3SgSb.jpg" group-title="Entertainment",Mazhavil Manorama
 https://3an3.short.gy/Mazhavilman789/playlist.m3u8
 #EXTINF:-1 tvg-id="AsianetPlus.in" tvg-logo="https://i.imgur.com/gEq5lHd.png" group-title="Entertainment",Asianet Plus
@@ -15,7 +15,7 @@ https://3an3.short.gy/flowerstv.m3u8
 #EXTINF:-1 tvg-id="AsianetMovies.in" tvg-logo="https://i.imgur.com/23ktt7p.png" group-title="Entertainment",Asianet Movies
 https://yupptvliveten2.yuppcdn.net/280722/smil:asianetmovies.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SuryaMovies.in" tvg-logo="https://i.imgur.com/jGyUuVU.jpg" group-title="Entertainment",Surya Movies
-http://ky-iptv.com:80/brad2022/brad2022/786451.m3u8
+http://212.224.84.217:2200/R-EX/MALAYALAM_SURYA_MOVIES-in/index.m3u8?token=token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
 #EXTINF:-1 tvg-id="KochuTV.in" tvg-logo="https://i.imgur.com/nwwLQ6l.png" group-title="Entertainment",Kochu TV
 https://noxtv.ml/API/SUNNEXT/master.m3u8/?id=26573
 #EXTINF:-1 tvg-id="KairaliTV.in" tvg-logo="https://i.imgur.com/kVCJThg.jpg" group-title="Entertainment",Kairali TV
@@ -60,5 +60,7 @@ https://tvworld.fun/jtv/streams/878b278b2b72a97f21748a7387c06661/index.m3u8?usfA
 https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2020/02/ddsports-150x150.jpg" group-title="Entertainment",DD Sports
 http://pakin.worldtvip.co/ind_ddsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/star-sports-hd-1-large.jpg" group-title="Entertainment",Star Sports 1 Hindi
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.seminarsonly.com/news/wp-content/uploads/2021/10/Star-Sports-1-Hd-Hindi.jpg" group-title="Entertainment",Star Sports 1 Hindi
 https://tamiltv.store/playlist/RUdPZDNKMW5wajc0Z3VmekVsSHVkQThvNEJRRlhXVE51VnJ3MElUVGw1eUpVK3R5NDNab1FLdUVnZnY1d1pBdjlZeit2MnlzKzNjT3RCbzZPN21MSHc9PQ,,/master.m3u8?token=SEQ5ckZYWE1yTjN3TmVIN0JhYll6d0tvenNucUxYWlJTa0Zia2hTMlg1R3JPWHlSdlZ1UTNFZWtoVjQ3Mkk3UnA2blJpYW90TmtIL0kzaXFaVEJyelAya2JXSkdMQkVFZHF6cGN5ZmxpVFhCVDhNdWNNazIraytMaEc5ams1ZHY,
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/star-sports-hd-1-large.jpg" group-title="Entertainment",Star Sports 1 HD
+http://livesportsclub.me/sports/master.m3u8/?key=MRX&c=star1in
