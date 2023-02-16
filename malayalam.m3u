@@ -1,6 +1,8 @@
 #EXTINF:-1 tvg-id="Asianet.in" tvg-logo="https://i.imgur.com/p4Eulli.jpg" group-title="Entertainment",Asianet
 https://yupptvliveten2.yuppcdn.net/280722/smil:starasianet.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Surya.in" tvg-logo="https://i.imgur.com/my7xncW.jpg" group-title="Entertainment",Surya
+#EXTINF:-1 tvg-id="Asianet.in" tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2020/01/ASIAHD-185x278.webp" group-title="Entertainment",Asianet HD
+http://212.224.84.217:2200/R-EX/MALAYALAM_ASIANET_HD-in/index.m3u8?token=token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
+#EXTINF:-1 tvg-id="Surya.in" tvg-logo="https://i.imgur.com/my7xncW.jpg" group-title="Entertainment",Surya HD
 https://yupptvliveten2.yuppcdn.net/280722/smil:suryahd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Zee_Keralam_TV.jpg" group-title="Entertainment",Zee Keralam HD
 http://212.224.84.217:2200/R-EX/MALAYALAM_ZEE_KERALAM_HD-in/index.m3u8?token=token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
@@ -21,7 +23,7 @@ https://noxtv.ml/API/SUNNEXT/master.m3u8/?id=26573
 #EXTINF:-1 tvg-id="KairaliTV.in" tvg-logo="https://i.imgur.com/kVCJThg.jpg" group-title="Entertainment",Kairali TV
 https://lineartv.neestream.net/neestream_01/kairalitv/tracks-v1a1/mono.m3u8?token=693400
 #EXTINF:-1 tvg-id="WeTV.in" tvg-logo="https://i.imgur.com/IxBTtib.jpg" group-title="Entertainment",We TV
-https://lineartv.neestream.net/neestream_01/kairaliwe/tracks-v1a1/mono.m3u8?token=693400
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/wetv_nim_https/050522/wetv/playlist.m3u8
 #EXTINF:-1 tvg-id="AmritaTV.in" tvg-logo="https://i.imgur.com/UqxNPMZ.jpg" group-title="Entertainment",Amrita TV 
 https://dr1zhpsuem5f4.cloudfront.net/master_1000.m3u8
 #EXTINF:-1 tvg-id="SafariTV.in" tvg-logo="https://i.imgur.com/6Rm1v9C.jpg" group-title="Entertainment",Safari TV
@@ -29,29 +31,19 @@ https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="KaumudyTV.in" tvg-logo="https://i.imgur.com/34on8t1.jpg" group-title="Entertainment",Kaumudy 
 https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="KappaTV.in" tvg-logo="https://i.imgur.com/QVrSAeV.jpg" group-title="Entertainment",Kappa 
-https://servertv.ml/JIO/live.php?c=Kappa_TV&q=800&e=.m3u8
+https://idvd.multitvsolution.com/idvo/kappatv_540p.m3u8
 #EXTINF:-1 tvg-id="AsianetNews.in" tvg-logo="https://i.imgur.com/hqrMJAZ.jpg" group-title="Entertainment",Asianet News
-https://servertv.ml/JIO/live.php?c=Asianet_News&q=800&e=.m3u8
-#EXTINF:-1 tvg-id="Mathrubhumi News.in" tvg-logo="https://i.imgur.com/fA38Vk4.jpg" group-title="Entertainment",Mathrubhumi News
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetnews_nim_https/240122/asianetnews/playlist.m3u8
+#EXTINF:-1 tvg-id="MathrubhumiNews.in" tvg-logo="https://i.imgur.com/fA38Vk4.jpg" group-title="Entertainment",Mathrubhumi News
 https://mathrubhumividgyor.pc.cdn.bitgravity.com/mathrubhumi-origin/liveabr/mathrubhumi-origin/live_240p/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3SDjYrp.png" group-title="Entertainment",Enlight News
 https://live.enlightnews.com/live/enlightnews/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Nick.in" tvg-logo="https://i.imgur.com/AUx6cJz.png" group-title="Entertainment",Nick Malayalam 
-https://servertv.ml/JIO/live.php?c=Nick_Malayalam&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKids.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="Entertainment",Discovery Kids 
 https://varun-iptv.netlify.app/m3u/discoverykidsmalayalam.m3u8
-#EXTINF:-1 tvg-id="SonicNickelodeon.in" tvg-logo="https://i.imgur.com/4Ec6BrS.jpg" group-title="Entertainment",Sonic Nick Malayalam 
-https://servertv.ml/JIO/live.php?c=Sonic_Malayalam&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" group-title="Entertainment",Cartoon Network
 https://servertv.ml/JIO/live.php?c=Cartoon_Network_Hindi&q=600&e=.m3u8
 #EXTINF:-1 tvg-id="ManoramaNews.in" tvg-logo="https://i.imgur.com/rwAIblA.jpg" group-title="Entertainment",Manorama News
-https://servertv.ml/JIO/live.php?c=Manorama_News&q=800&e=.m3u8
-#EXTINF:-1 tvg-id="SuryaComedy.in" tvg-logo="https://sund-images.sunnxt.com/30835/500x750_SuryaComedy_30835_4e038a42-fb24-467e-a388-4fd9ec1b108d.jpg" group-title="Entertainment",Surya Comedy 
-https://noxtv.ml/API/SUNNEXT/master.m3u8/?id=30835
-#EXTINF:-1 tvg-id="SuryaMusic.in" tvg-logo="https://sund-images.sunnxt.com/26575/500x750_SuryaMusic_26575_cc1fcfcf-7931-4b87-9ef7-1f74e60d00f7.jpg" group-title="Entertainment",Surya Music
-https://noxtv.ml/API/SUNNEXT/master.m3u8?id=26575
-#EXTINF:-1 tvg-id="RajMusix.in" tvg-logo="https://i.imgur.com/IaQb4wm.jpg" group-title="Entertainment",Raj Music Malayalam
-https://servertv.ml/JIO/live.php?c=Raj_Music_Malayalam&q=800&e=.m3u8
+https://mmtvlive1.akamaized.net/out/v1/b07e2eca22624651960999f9ac2f4b7d/index.m3u8
 #EXTINF:-1 tvg-id="DDMalayalam.in" tvg-logo="https://i.imgur.com/iWDUY9d.jpg" group-title="Entertainment",DD Malayalam
 https://servertv.ml/JIO/live.php?c=DD_Malayalam&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="DDSports.in" tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2020/11/isl-1.webp" group-title="Entertainment",Jio Football
