@@ -21,7 +21,7 @@ https://yupptvliveten2.yuppcdn.net/280722/smil:asianetmovies.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SuryaMovies.in" tvg-logo="https://i.imgur.com/jGyUuVU.jpg" group-title="Entertainment",Surya Movies
 http://212.224.84.217:2200/R-EX/MALAYALAM_SURYA_MOVIES-in/index.m3u8?token=token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
 #EXTINF:-1 tvg-id="KairaliTV.in" tvg-logo="https://i.imgur.com/kVCJThg.jpg" group-title="Entertainment",Kairali TV
-
+https://yuppirecloriginvt.akamaized.net/220722/smil:kairali.smil/playlist.m3u8?hdnts=st=1676736220~exp=1676739820~acl=*~data=yuppTVCom_5_1800068_a082ab4d2d524aed_UK_31.22.4.94~hmac=45f8efb39f3087b0c3f693969d0c5b3fe47b3d7802f4320568ae8cac36317ecc&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.lang=MAL&ads.content_genre=ENT&ads.channel=262
 #EXTINF:-1 tvg-id="WeTV.in" tvg-logo="https://i.imgur.com/IxBTtib.jpg" group-title="Entertainment",We TV
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/wetv_nim_https/050522/wetv/playlist.m3u8
 #EXTINF:-1 tvg-id="AmritaTV.in" tvg-logo="https://i.imgur.com/UqxNPMZ.jpg" group-title="Entertainment",Amrita TV 
@@ -34,15 +34,13 @@ https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/chunks.m3u8
 https://idvd.multitvsolution.com/idvo/kappatv_540p.m3u8
 #EXTINF:-1 tvg-id="AsianetNews.in" tvg-logo="https://i.imgur.com/hqrMJAZ.jpg" group-title="Entertainment",Asianet News
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetnews_nim_https/240122/asianetnews/playlist.m3u8
-#EXTINF:-1 tvg-id="MathrubhumiNews.in" tvg-logo="https://i.imgur.com/fA38Vk4.jpg" group-title="Entertainment",Mathrubhumi News
+#EXTINF:-1 tvg-id="Mathrubhumi News.in" tvg-logo="https://i.imgur.com/fA38Vk4.jpg" group-title="Entertainment",Mathrubhumi News
 https://mathrubhumividgyor.pc.cdn.bitgravity.com/mathrubhumi-origin/liveabr/mathrubhumi-origin/live_240p/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3SDjYrp.png" group-title="Entertainment",Enlight News
 https://live.enlightnews.com/live/enlightnews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ManoramaNews.in" tvg-logo="https://i.imgur.com/rwAIblA.jpg" group-title="Entertainment",Manorama News
 https://mmtvlive1.akamaized.net/out/v1/b07e2eca22624651960999f9ac2f4b7d/index.m3u8
-#EXTINF:-1 tvg-id="DDSports.in" tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2020/11/isl-1.webp" group-title="Entertainment",Jio Football
-https://tvworld.fun/jtv/streams/878b278b2b72a97f21748a7387c06661/index.m3u8?usfAuth=nJm2ogmWzJmYzMq3ytLHm2zKmdm0mtmXngvIzdzHmJuXnZeYzgyXzs0Tlte2nZy1ntuZndC
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/F5qOmvz.jpg" group-title="Entertainment",Janam TV
+#EXTINF:-1 tvg-id="JanamTV.in" tvg-logo="https://i.imgur.com/F5qOmvz.jpg" group-title="Entertainment",Janam TV
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Reporter-Malayalam-TV-Channel-Logo.jpg" group-title="Entertainment",Reporter TV
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/reporter_nim_https/050522/reporter/playlist.m3u8
@@ -50,31 +48,31 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 https://d1vd9xhq6jlm48.cloudfront.net/out/v1/71fcc57c8fe74c5b938451bc2435a93e/index_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JCId5rm.png" group-title="Entertainment",Shekinah TV
 https://shekinah.pc.cdn.bitgravity.com/shekinah/live/amlst:shekinahchannel_,b256,b512,b720,b1200,b1600,.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Fw8yvvx.png" group-title="Entertainment",Discovery HD Malayalam
+#EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-logo="https://i.imgur.com/Fw8yvvx.png" group-title="Entertainment",Discovery HD Malayalam
 https://varun-iptv.netlify.app/m3u/discoverymalayalam.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/star-sports-hd-1-large.jpg" group-title="Entertainment",Star Sports 1 HD
+#EXTINF:-1 tvg-id="StarSports1.in" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/star-sports-hd-1-large.jpg" group-title="Entertainment",Star Sports 1 HD
 http://212.224.84.217:2200/R-EX/SPORTS_STAR_SPORTS_1_ENGLISH_HD-in/index.m3u8?token=token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.seminarsonly.com/news/wp-content/uploads/2021/10/Star-Sports-1-Hd-Hindi.jpg" group-title="Entertainment",Star Sports 1 Hindi
+#EXTINF:-1 tvg-id="StarSports1.in" tvg-logo="https://www.seminarsonly.com/news/wp-content/uploads/2021/10/Star-Sports-1-Hd-Hindi.jpg" group-title="Entertainment",Star Sports 1 Hindi
 https://tamiltv.store/playlist/RUdPZDNKMW5wajc0Z3VmekVsSHVkQThvNEJRRlhXVE51VnJ3MElUVGw1eUpVK3R5NDNab1FLdUVnZnY1d1pBdjlZeit2MnlzKzNjT3RCbzZPN21MSHc9PQ,,/master.m3u8?token=SEQ5ckZYWE1yTjN3TmVIN0JhYll6d0tvenNucUxYWlJTa0Zia2hTMlg1R3JPWHlSdlZ1UTNFZWtoVjQ3Mkk3UnA2blJpYW90TmtIL0kzaXFaVEJyelAya2JXSkdMQkVFZHF6cGN5ZmxpVFhCVDhNdWNNazIraytMaEc5ams1ZHY,
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Entertainment",Star Sports 2
+#EXTINF:-1 tvg-id="StarSports2.in" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Entertainment",Star Sports 2
 https://tamiltv.store/playlist/VStnd1R5NjdLd0puaUZ6Vzd4bWh4Zjk4bGpPUmlpaElSM2I1NlNGOE1jNzRXN1FraS9DT3UzMjEvT2VmNnZ4M0ZFNjdkZld0cTBiRDVhK00ydDcybnc9PQ,,/master.m3u8?token=WWlNdHN4Y3ZVVTZldGpCRVdYQUc1Q0hScGg5T2lkYkFCQjg2WXhXUmtocDFmOEtOcnkwbExnbGhwd0d3cjQrZ0Ziem5aeW1oTFcvN3JKc2llRGRld3Y1eDFEZ3AxYmpCMDNJOFNwdDJKb1FUUEhiZ3IzUjBydXZoZnBJL2NKOGE,
-#EXTINF:-1 tvg-id="" tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2020/02/ddsports-150x150.jpg" group-title="Entertainment",DD Sports
+#EXTINF:-1 tvg-id="DDSports.in" tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2020/02/ddsports-150x150.jpg" group-title="Entertainment",DD Sports
 http://pakin.worldtvip.co/ind_ddsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SonyYAY.in" tvg-logo="https://i.imgur.com/3r99P9m.png" group-title="Entertainment",Sony YAY
 https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKids.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="Entertainment",Discovery Kids 
 https://varun-iptv.netlify.app/m3u/discoverykidsmalayalam.m3u8
-#EXTINF:-1 tvg-id="SonyYAY.in" tvg-logo="https://i.imgur.com/NmlUdLb.png" group-title="Entertainment",Sony Ten 1
+#EXTINF:-1 tvg-id="SonyTEN1.in" tvg-logo="https://i.imgur.com/NmlUdLb.png" group-title="Entertainment",Sony Ten 1
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
-#EXTINF:-1 tvg-id="SonyYAY.in" tvg-logo="https://i.imgur.com/WhBOak7.png" group-title="Entertainment",Sony Ten 2
+#EXTINF:-1 tvg-id="SonyTEN2.in" tvg-logo="https://i.imgur.com/WhBOak7.png" group-title="Entertainment",Sony Ten 2
 https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
-#EXTINF:-1 tvg-id="SonyYAY.in" tvg-logo="https://i.imgur.com/pKe7I1h.png" group-title="Entertainment",Sony Ten 3
+#EXTINF:-1 tvg-id="SonyTEN3.in" tvg-logo="https://i.imgur.com/pKe7I1h.png" group-title="Entertainment",Sony Ten 3
 https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
-#EXTINF:-1 tvg-id="SonyYAY.in" tvg-logo="https://i.imgur.com/mtXzI4L.png" group-title="Entertainment",Sony Ten 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mtXzI4L.png" group-title="Entertainment",Sony Ten 4
 https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
-#EXTINF:-1 tvg-id="SonyYAY.in" tvg-logo="https://i.imgur.com/0nNPsUI.jpg" group-title="Entertainment",Sony Ten 5
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0nNPsUI.jpg" group-title="Entertainment",Sony Ten 5
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
-#EXTINF:-1 tvg-id="SonyYAY.in" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Sony-Six.png" group-title="Entertainment",Sony Six
+#EXTINF:-1 tvg-id="SonySIX.in" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Sony-Six.png" group-title="Entertainment",Sony Six
 https://tamiltv.store/playlist/dURIcXpoS1l4bHVTdjVtQnhoYlN0OHE2WWF1dk1zN3ZaeHU2RzlzendyTE1Fd0dwcmpkcWFmQ1Ixekl0VEVra3p2Q0VSaEdGYTZBK3ZZeTBLV3I1U3c9PQ,,/master.m3u8?token=ODZONVlYdjRzTEwzTTBKcFV4TVJoczJkNFBwb3l5WElrNGgweHUrVmo0aVk3L2dtcS9XUE15YkRHajE2ZEMzN0tUZUpQN05PejZON2hKbEFvWjlnSDlTb01MZWVHNnErTmpwSE5sZFM3NGR1Y2xDak0vRXBYNkhBN2FheXo5OUU,
-#EXTINF:-1 tvg-id="SonyYAY.in" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="Entertainment",Willow TV
+#EXTINF:-1 tvg-id="WillowCricket.us" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="Entertainment",Willow TV
 https://tamiltv.store/playlist/WGFuZmJQOWxRUjBpeWN0NEpFanZDMzRmeG1qcm1ySlJyRms3VXppVkkrTHZZUGV0M1haL0FDMFpNL0ViMzZJWnFRTTNJNXFqRFMyNFN0ek1zckJEYkE9PQ,,/master.m3u8?token=ODZONVlYdjRzTEwzTTBKcFV4TVJoczJkNFBwb3l5WElrNGgweHUrVmo0aVk3L2dtcS9XUE15YkRHajE2ZEMzN0tUZUpQN05PejZON2hKbEFvWjlnSDlTb01MZWVHNnErTmpwSE5sZFM3NGR1Y2xDak0vRXBYNkhBN2FheXo5OUU,
