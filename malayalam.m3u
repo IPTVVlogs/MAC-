@@ -7,9 +7,9 @@ https://yupptvliveten2.yuppcdn.net/280722/smil:starasianetuk.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Surya.in" tvg-logo="https://i.imgur.com/my7xncW.jpg" group-title="Entertainment",Surya HD
 https://yupptvliveten2.yuppcdn.net/280722/smil:suryahd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Zee_Keralam_TV.jpg" group-title="Entertainment",Zee Keralam HD
-http://212.224.84.217:2200/R-EX/MALAYALAM_ZEE_KERALAM_HD-in/index.m3u8?token=token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendp
+http://streaming24x7.xyz/1DV/JIO/api.php?c=0-9-129&q=576e=.m3u8
 #EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-logo="https://i.imgur.com/uV3SgSb.jpg" group-title="Entertainment",Mazhavil Manorama
-https://3an3.short.gy/Mazhavilman789/playlist.m3u8
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
 #EXTINF:-1 tvg-id="AsianetPlus.in" tvg-logo="https://i.imgur.com/gEq5lHd.png" group-title="Entertainment",Asianet Plus
 https://yupptvliveten2.yuppcdn.net/280722/smil:starasianetp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Asianet.in" tvg-logo="https://www.yello.ae/img/ae/m/1597682116-16-asianet-middle-east.jpg" group-title="Entertainment",Asianet Middle East
@@ -17,7 +17,7 @@ http://212.224.84.217:2200/R-EX/MALAYALAM_ASIANET_MIDDLE-EAST-in/index.m3u8?toke
 #EXTINF:-1 tvg-id="AsianetPlus.in" tvg-logo="https://i.imgur.com/gEq5lHd.png" group-title="Entertainment",Asianet Plus UK
 https://yupptvliveten2.yuppcdn.net/280722/smil:starasianetpuk.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Flowers.in" tvg-logo="https://i.imgur.com/kDgTzUm.jpg" group-title="Entertainment",Flowers TV
-https://3an3.short.gy/flowerstv.m3u8
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
 #EXTINF:-1 tvg-id="AsianetMovies.in" tvg-logo="https://i.imgur.com/23ktt7p.png" group-title="Entertainment",Asianet Movies
 https://yupptvliveten2.yuppcdn.net/280722/smil:asianetmovies.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SuryaMovies.in" tvg-logo="https://i.imgur.com/jGyUuVU.jpg" group-title="Entertainment",Surya Movies
@@ -75,6 +75,6 @@ https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0nNPsUI.jpg" group-title="Entertainment",Sony Ten 5
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 #EXTINF:-1 tvg-id="SonySIX.in" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Sony-Six.png" group-title="Entertainment",Sony Six
-https://tamiltv.store/playlist/dURIcXpoS1l4bHVTdjVtQnhoYlN0OHE2WWF1dk1zN3ZaeHU2RzlzendyTE1Fd0dwcmpkcWFmQ1Ixekl0VEVra3p2Q0VSaEdGYTZBK3ZZeTBLV3I1U3c9PQ,,/master.m3u8?token=ODZONVlYdjRzTEwzTTBKcFV4TVJoczJkNFBwb3l5WElrNGgweHUrVmo0aVk3L2dtcS9XUE15YkRHajE2ZEMzN0tUZUpQN05PejZON2hKbEFvWjlnSDlTb01MZWVHNnErTmpwSE5sZFM3NGR1Y2xDak0vRXBYNkhBN2FheXo5OUU,
+http://212.224.84.217:2200/R-EX/SPORTS_SONY_SIX_HD-in/index.m3u8?token=&token=fwBlCndpe3BpD3tnN3cSfwJlc3NicwdpfT9gfXRieXRgc3Nm===
 #EXTINF:-1 tvg-id="WillowCricket.us" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="Entertainment",Willow TV
 https://tamiltv.store/playlist/WGFuZmJQOWxRUjBpeWN0NEpFanZDMzRmeG1qcm1ySlJyRms3VXppVkkrTHZZUGV0M1haL0FDMFpNL0ViMzZJWnFRTTNJNXFqRFMyNFN0ek1zckJEYkE9PQ,,/master.m3u8?token=ODZONVlYdjRzTEwzTTBKcFV4TVJoczJkNFBwb3l5WElrNGgweHUrVmo0aVk3L2dtcS9XUE15YkRHajE2ZEMzN0tUZUpQN05PejZON2hKbEFvWjlnSDlTb01MZWVHNnErTmpwSE5sZFM3NGR1Y2xDak0vRXBYNkhBN2FheXo5OUU,
