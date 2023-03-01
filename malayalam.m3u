@@ -12,8 +12,6 @@ http://streaming24x7.xyz/1DV/JIO/api.php?c=0-9-129
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
 #EXTINF:-1 tvg-id="AsianetPlus.in" tvg-logo="https://i.imgur.com/gEq5lHd.png" group-title="Entertainment",Asianet Plus
 https://yupptvliveten2.yuppcdn.net/280722/smil:starasianetp.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Asianet.in" tvg-logo="https://i.imgur.com/I1HtRUG.png" group-title="Entertainment",Asianet Middle East
-http://212.224.84.217:2200/R-EX/MALAYALAM_ASIANET_MIDDLE-EAST-in/index.m3u8?token=token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
 #EXTINF:-1 tvg-id="AsianetPlus.in" tvg-logo="https://i.imgur.com/gEq5lHd.png" group-title="Entertainment",Asianet Plus UK
 https://yupptvliveten2.yuppcdn.net/280722/smil:starasianetpuk.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Flowers.in" tvg-logo="https://i.imgur.com/kDgTzUm.jpg" group-title="Entertainment",Flowers TV
@@ -23,7 +21,7 @@ https://yupptvliveten2.yuppcdn.net/280722/smil:asianetmovies.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SuryaMovies.in" tvg-logo="https://i.imgur.com/jGyUuVU.jpg" group-title="Entertainment",Surya Movies
 http://212.224.84.217:2200/R-EX/MALAYALAM_SURYA_MOVIES-in/index.m3u8?token=token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
 #EXTINF:-1 tvg-id="KairaliTV.in" tvg-logo="https://i.imgur.com/kVCJThg.jpg" group-title="Entertainment",Kairali TV
-https://livesportsclub.tech/getm3u8?id=710&m3u8=/jiotvmblive.cdn.jio.com/Kairali_TV/Kairali_TV_800.m3u8
+https://jiotv.dtvhindi.in/getm3u8/710/master.m3u8
 #EXTINF:-1 tvg-id="WeTV.in" tvg-logo="https://i.imgur.com/IxBTtib.jpg" group-title="Entertainment",We TV
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/wetv_nim_https/050522/wetv/playlist.m3u8
 #EXTINF:-1 tvg-id="AmritaTV.in" tvg-logo="https://i.imgur.com/UqxNPMZ.jpg" group-title="Entertainment",Amrita TV 
@@ -55,7 +53,7 @@ https://shekinah.pc.cdn.bitgravity.com/shekinah/live/amlst:shekinahchannel_,b256
 #EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-logo="https://i.imgur.com/Fw8yvvx.png" group-title="Entertainment",Discovery HD Malayalam
 https://varun-iptv.netlify.app/m3u/discoverymalayalam.m3u8
 #EXTINF:-1 tvg-id="StarSports1.in" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/star-sports-hd-1-large.jpg" group-title="Entertainment",Star Sports 1 HD
-http://212.224.84.217:2200/R-EX/SPORTS_STAR_SPORTS_1_ENGLISH_HD-in/index.m3u8?token=token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
+https://streaming24x7.xyz/1DV/JIO/2/CRICHD-LIVE/master.m3u8/?key=AKI&c=star1in
 #EXTINF:-1 tvg-id="StarSports1.in" tvg-logo="https://www.seminarsonly.com/news/wp-content/uploads/2021/10/Star-Sports-1-Hd-Hindi.jpg" group-title="Entertainment",Star Sports 1 Hindi
 https://tamiltv.store/playlist/RUdPZDNKMW5wajc0Z3VmekVsSHVkQThvNEJRRlhXVE51VnJ3MElUVGw1eUpVK3R5NDNab1FLdUVnZnY1d1pBdjlZeit2MnlzKzNjT3RCbzZPN21MSHc9PQ,,/master.m3u8?token=SEQ5ckZYWE1yTjN3TmVIN0JhYll6d0tvenNucUxYWlJTa0Zia2hTMlg1R3JPWHlSdlZ1UTNFZWtoVjQ3Mkk3UnA2blJpYW90TmtIL0kzaXFaVEJyelAya2JXSkdMQkVFZHF6cGN5ZmxpVFhCVDhNdWNNazIraytMaEc5ams1ZHY,
 #EXTINF:-1 tvg-id="StarSports2.in" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Entertainment",Star Sports 2
@@ -77,6 +75,6 @@ https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0nNPsUI.jpg" group-title="Entertainment",Sony Ten 5
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 #EXTINF:-1 tvg-id="SonySIX.in" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Sony-Six.png" group-title="Entertainment",Sony Six
-http://212.224.84.217:2200/R-EX/SPORTS_SONY_SIX_HD-in/index.m3u8?token=&token=fwBlCndpe3BpD3tnN3cSfwJlc3NicwdpfT9gfXRieXRgc3Nm===
+https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 #EXTINF:-1 tvg-id="WillowCricket.us" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="Entertainment",Willow TV
 https://tamiltv.store/playlist/WGFuZmJQOWxRUjBpeWN0NEpFanZDMzRmeG1qcm1ySlJyRms3VXppVkkrTHZZUGV0M1haL0FDMFpNL0ViMzZJWnFRTTNJNXFqRFMyNFN0ek1zckJEYkE9PQ,,/master.m3u8?token=ODZONVlYdjRzTEwzTTBKcFV4TVJoczJkNFBwb3l5WElrNGgweHUrVmo0aVk3L2dtcS9XUE15YkRHajE2ZEMzN0tUZUpQN05PejZON2hKbEFvWjlnSDlTb01MZWVHNnErTmpwSE5sZFM3NGR1Y2xDak0vRXBYNkhBN2FheXo5OUU,
