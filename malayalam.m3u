@@ -1,9 +1,11 @@
-#EXTINF:-1 tvg-id="Asianet.in" tvg-logo="https://i.imgur.com/p4Eulli.jpg" group-title="Entertainment",Asianet SD
+#EXTINF:-1 tvg-id="Asianet.in" tvg-logo="https://i.imgur.com/k7ZNdbJ.png" group-title="Entertainment",Big Boss 5
 https://yupptvliveten2.yuppcdn.net/280722/smil:starasianet.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Asianet.in" tvg-logo="https://i.imgur.com/TkeAzU4.png" group-title="Entertainment",Asianet UK
-https://yupptvliveten2.yuppcdn.net/280722/smil:starasianetuk.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Asianet.in" tvg-logo="https://i.imgur.com/p4Eulli.jpg" group-title="Entertainment",Asianet
+https://yupptvliveten2.yuppcdn.net/280722/smil:starasianet.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Surya.in" tvg-logo="https://i.imgur.com/my7xncW.jpg" group-title="Entertainment",Surya HD
 https://yupptvliveten2.yuppcdn.net/280722/smil:suryahd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Asianet.in" tvg-logo="https://i.imgur.com/TkeAzU4.png" group-title="Entertainment",Asianet UK
+https://yupptvliveten2.yuppcdn.net/280722/smil:starasianetuk.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/h0cJG3U.png" group-title="Entertainment",Zee Keralam HD
 https://streaming24x7.xyz/1DV/JIO/api.php?c=0-9-129
 #EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-logo="https://i.imgur.com/uV3SgSb.jpg" group-title="Entertainment",Mazhavil Manorama
