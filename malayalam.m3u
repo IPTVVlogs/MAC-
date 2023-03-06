@@ -2,8 +2,10 @@
 https://yupptvliveten2.yuppcdn.net/280722/smil:starasianet.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Asianet.in" tvg-logo="https://i.imgur.com/p4Eulli.jpg" group-title="Entertainment",Asianet
 https://yupptvliveten2.yuppcdn.net/280722/smil:starasianet.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Surya.in" tvg-logo="https://i.imgur.com/my7xncW.jpg" group-title="Entertainment",Surya HD
+#EXTINF:-1 tvg-id="Surya.in" tvg-logo="https://i.imgur.com/my7xncW.jpg" group-title="Entertainment",Surya TV
 https://yupptvliveten2.yuppcdn.net/280722/smil:suryahd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Asianet.in" tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2020/01/ASIAHD-185x278.webp" group-title="Entertainment",Asianet HD
+https://livesportsclub.me/starxlive/index.m3u8/?id=47946&token=highrisk
 #EXTINF:-1 tvg-id="Asianet.in" tvg-logo="https://i.imgur.com/TkeAzU4.png" group-title="Entertainment",Asianet UK
 https://yupptvliveten2.yuppcdn.net/280722/smil:starasianetuk.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/h0cJG3U.png" group-title="Entertainment",Zee Keralam HD
@@ -20,6 +22,8 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 https://yupptvliveten2.yuppcdn.net/280722/smil:asianetmovies.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SuryaMovies.in" tvg-logo="https://i.imgur.com/jGyUuVU.jpg" group-title="Entertainment",Surya Movies
 https://livesportsclub.me/starxlive/index.m3u8/?id=47947&token=highrisk
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/I1HtRUG.png" group-title="Entertainment",Asianet Middle East
+
 #EXTINF:-1 tvg-id="KairaliTV.in" tvg-logo="https://i.imgur.com/kVCJThg.jpg" group-title="Entertainment",Kairali TV
 https://jio.bulbtv.online/BULB-JIOTV/master.m3u8/?id=710
 #EXTINF:-1 tvg-id="WeTV.in" tvg-logo="https://i.imgur.com/IxBTtib.jpg" group-title="Entertainment",We TV
