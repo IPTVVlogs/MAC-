@@ -58,10 +58,6 @@ https://tamiltv.store/playlist/eWo4V3NoL0V3cW5obGUxcWpHa1BNNk5hcVNwZlNxak5RSG5aV
 https://tamiltv.store/playlist/eHoycmtQRmdIYnNpV0RpNFBqNHpZK2c0cEhScytEWXRzQ2dQYldBWVpsWVFxaXZBNGhySDh3VUpPMDROdDY4ZkJXUTJ6Y2lCa1FrVlV6TGtha0VvMkE9PQ,,/master.m3u8?token=ZkZhMTJJSG13R1hoWmhMb2RMcmRJZitKdmQrd21NRUtHd3hLd0JiQ0tlQTZjaHVvbmEvejMrREVxVUU2SngzbzF3RjZsOXBmY1BTV2p5ZEJ2UkVGc0E9PQ,,
 #EXTINF:-1 tvg-id="DDSports.in" tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2020/02/ddsports-150x150.jpg" group-title="Entertainment",DD Sports
 http://pakin.worldtvip.co/ind_ddsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="SonyYAY.in" tvg-logo="https://i.imgur.com/3r99P9m.png" group-title="Entertainment",Sony YAY
-https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
-#EXTINF:-1 tvg-id="DiscoveryKids.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="Entertainment",Discovery Kids 
-https://varun-iptv.netlify.app/m3u/discoverykidsmalayalam.m3u8
 #EXTINF:-1 tvg-id="SonyTEN1.in" tvg-logo="https://i.imgur.com/NmlUdLb.png" group-title="Entertainment",Sony Ten 1
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 #EXTINF:-1 tvg-id="SonyTEN2.in" tvg-logo="https://i.imgur.com/WhBOak7.png" group-title="Entertainment",Sony Ten 2
@@ -76,3 +72,7 @@ https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 #EXTINF:-1 tvg-id="WillowCricket.us" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="Entertainment",Willow TV
 https://tamiltv.store/playlist/WGFuZmJQOWxRUjBpeWN0NEpFanZDMzRmeG1qcm1ySlJyRms3VXppVkkrTHZZUGV0M1haL0FDMFpNL0ViMzZJWnFRTTNJNXFqRFMyNFN0ek1zckJEYkE9PQ,,/master.m3u8?token=ODZONVlYdjRzTEwzTTBKcFV4TVJoczJkNFBwb3l5WElrNGgweHUrVmo0aVk3L2dtcS9XUE15YkRHajE2ZEMzN0tUZUpQN05PejZON2hKbEFvWjlnSDlTb01MZWVHNnErTmpwSE5sZFM3NGR1Y2xDak0vRXBYNkhBN2FheXo5OUU,
+#EXTINF:-1 tvg-id="SonyYAY.in" tvg-logo="https://i.imgur.com/3r99P9m.png" group-title="Entertainment",Sony YAY
+https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKids.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="Entertainment",Discovery Kids 
+https://varun-iptv.netlify.app/m3u/discoverykidsmalayalam.m3u8
