@@ -80,3 +80,5 @@ https://livesportsclub.me/starxlive/index.m3u8/?id=48154&token=highrisk
 https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKids.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="Entertainment",Discovery Kids 
 https://varun-iptv.netlify.app/m3u/discoverykidsmalayalam.m3u8
+#EXTINF:-1 tvg-id="SonyYAY.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Gubbare-cl.png/revision/latest?cb=20210507104727" group-title="Entertainment",Gubbare
+https://epiconvh.s.llnwi.net/gubbare/master.m3u8
