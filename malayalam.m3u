@@ -8,8 +8,6 @@ https://yupptvliveten2.yuppcdn.net/280722/smil:suryahd.smil/playlist.m3u8
 https://livesportsclub.me/starxlive/index.m3u8/?id=47946&token=highrisk
 #EXTINF:-1 tvg-id="Asianet.in" tvg-logo="https://i.imgur.com/TkeAzU4.png" group-title="Entertainment",Asianet UK
 https://yupptvliveten2.yuppcdn.net/280722/smil:starasianetuk.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Asianet.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Victers_TV_Logo.jpg" group-title="Entertainment",Kite Victers
-https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/victers/tv2/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/h0cJG3U.png" group-title="Entertainment",Zee Keralam HD
 https://streaming24x7.xyz/1DV/JIO/api.php?c=0-9-129
 #EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-logo="https://i.imgur.com/uV3SgSb.jpg" group-title="Entertainment",Mazhavil Manorama
@@ -38,6 +36,8 @@ https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="KappaTV.in" tvg-logo="https://i.imgur.com/QVrSAeV.jpg" group-title="Entertainment",Kappa 
 https://idvd.multitvsolution.com/idvo/kappatv_540p.m3u8
+#EXTINF:-1 tvg-id="Asianet.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Victers_TV_Logo.jpg" group-title="Entertainment",Kite Victers
+https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/victers/tv2/chunks.m3u8
 #EXTINF:-1 tvg-id="AsianetNews.in" tvg-logo="https://i.imgur.com/hqrMJAZ.jpg" group-title="Entertainment",Asianet News
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetnews_nim_https/240122/asianetnews/playlist.m3u8
 #EXTINF:-1 tvg-id="Mathrubhumi News.in" tvg-logo="https://i.imgur.com/fA38Vk4.jpg" group-title="Entertainment",Mathrubhumi News
