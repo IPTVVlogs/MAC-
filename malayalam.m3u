@@ -2,7 +2,7 @@
 https://yupptvliveten2.yuppcdn.net/280722/smil:starasianet.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Asianet.in" tvg-logo="https://i.imgur.com/p4Eulli.jpg" group-title="Entertainment",Asianet
 https://yupptvliveten2.yuppcdn.net/280722/smil:starasianet.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Surya.in" tvg-logo="https://i.imgur.com/my7xncW.jpg" group-title="Entertainment",Surya TV
+#EXTINF:-1 tvg-id="Surya.in" tvg-logo="https://i.imgur.com/my7xncW.jpg" group-title="Entertainment",Surya
 https://yupptvliveten2.yuppcdn.net/280722/smil:suryahd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Asianet.in" tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2020/01/ASIAHD-185x278.webp" group-title="Entertainment",Asianet HD
 https://livesportsclub.me/starxlive/index.m3u8/?id=47946&token=highrisk
@@ -61,7 +61,7 @@ https://tamiltv.store/playlist/eWo4V3NoL0V3cW5obGUxcWpHa1BNNk5hcVNwZlNxak5RSG5aV
 #EXTINF:-1 tvg-id="StarSports1.in" tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2020/04/star1hdhindi-185x278.webp" group-title="Entertainment",Star Sports 1 Hindi
 http://146.190.166.221/madstream/starsportshindi/index.m3u8
 #EXTINF:-1 tvg-id="DDSports.in" tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2020/02/ddsports-150x150.jpg" group-title="Entertainment",DD Sports
-https://jio.bulbtv.online/BULB-JIOTV/master.m3u8/?id=204
+https://madplay.live/jioliv/master.m3u8/?id=204&ch=DD_Sports.png&token=MR.NITROX-127l
 #EXTINF:-1 tvg-id="SonyTEN1.in" tvg-logo="https://i.imgur.com/NmlUdLb.png" group-title="Entertainment",Sony Ten 1
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 #EXTINF:-1 tvg-id="SonyTEN2.in" tvg-logo="https://i.imgur.com/WhBOak7.png" group-title="Entertainment",Sony Ten 2
