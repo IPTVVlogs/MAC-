@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:CODECS="avc1.4d001f,mp4a.40.2",RESOLUTION=704x396,BANDWIDTH=2144605
+https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/3ba4c099-0ce9-414f-84da-de15c9897079/0.m3u8
+#EXT-X-STREAM-INF:CODECS="avc1.4d001f,mp4a.40.2",RESOLUTION=640x360,BANDWIDTH=1423314
+https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/3ba4c099-0ce9-414f-84da-de15c9897079/1.m3u8
+#EXT-X-STREAM-INF:CODECS="avc1.4d001f,mp4a.40.2",RESOLUTION=512x288,BANDWIDTH=821756
+https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/3ba4c099-0ce9-414f-84da-de15c9897079/2.m3u8
+#EXT-X-STREAM-INF:CODECS="avc1.4d001f,mp4a.40.2",RESOLUTION=384x216,BANDWIDTH=572735
+https://yuppmedtaorire.akamaized.net/v1//manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/3ba4c099-0ce9-414f-84da-de15c9897079/3.m3u8
+#EXT-X-STREAM-INF:CODECS="avc1.4d001f,mp4a.40.2",RESOLUTION=256x144,BANDWIDTH=338089
+https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/3ba4c099-0ce9-414f-84da-de15c9897079/4.m3u8
