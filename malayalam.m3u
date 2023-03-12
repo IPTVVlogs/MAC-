@@ -25,7 +25,7 @@ https://livesportsclub.me/starxlive/index.m3u8/?id=47947&token=highrisk
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/I1HtRUG.png" group-title="Entertainment",Asianet Middle East
 https://livesportsclub.me/starxlive/index.m3u8/?id=50998&token=highrisk
 #EXTINF:-1 tvg-id="KairaliTV.in" tvg-logo="https://i.imgur.com/kVCJThg.jpg" group-title="Entertainment",Kairali TV
-https://www.madstreams.ga/getm3u8/710/master.m3u8
+https://raw.githubusercontent.com/IPTVVlogs/MAC-/main/kairali.m3u8
 #EXTINF:-1 tvg-id="WeTV.in" tvg-logo="https://i.imgur.com/IxBTtib.jpg" group-title="Entertainment",We TV
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/wetv_nim_https/050522/wetv/playlist.m3u8
 #EXTINF:-1 tvg-id="AmritaTV.in" tvg-logo="https://i.imgur.com/UqxNPMZ.jpg" group-title="Entertainment",Amrita TV 
