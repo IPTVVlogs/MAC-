@@ -59,9 +59,9 @@ http://api.new.livestream.com/accounts/25038049/events/7483919/broadcasts/235316
 #EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-logo="https://i.imgur.com/Fw8yvvx.png" group-title="Entertainment",Discovery HD Malayalam
 https://varun-iptv.netlify.app/m3u/discoverymalayalam.m3u8
 #EXTINF:-1 tvg-id="StarSports1.in" tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2020/02/star1hd-185x278.webp" group-title="Entertainment",Star Sports 1 HD
-https://3an3.short.gy/starsports1hd.m3u8
+https://livesportsclub.me/starxlive/index.m3u8/?id=48106&token=highrisk
 #EXTINF:-1 tvg-id="StarSports1.in" tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2020/04/star1hdhindi-185x278.webp" group-title="Entertainment",Star Sports 1 Hindi
-https://3an3.short.gy/star-sportsdisco.m3u8
+https://livesportsclub.me/starxlive/index.m3u8/?id=51218&token=highrisk
 #EXTINF:-1 tvg-id="DDSports.in" tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2020/02/ddsports-150x150.jpg" group-title="Entertainment",DD Sports
 https://madplay.live/jioliv/master.m3u8/?id=204&token=MR.NITROX-127l
 #EXTINF:-1 tvg-id="SonyTEN1.in" tvg-logo="https://i.imgur.com/NmlUdLb.png" group-title="Entertainment",Sony Ten 1
