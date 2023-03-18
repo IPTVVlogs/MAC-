@@ -5,11 +5,11 @@ https://yupptvliveten2.yuppcdn.net/280722/smil:starasianet.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Surya.in" tvg-logo="https://i.imgur.com/my7xncW.jpg" group-title="Entertainment",Surya HD
 https://yupptvliveten2.yuppcdn.net/280722/smil:suryahd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Asianet.in" tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2020/01/ASIAHD-185x278.webp" group-title="Entertainment",Asianet HD
-https://livesportsclub.me/starxlive/index.m3u8/?id=47946&token=highrisk
+https://madplay.live/starlive/index.m3u8/?id=47946&token=highrisk
 #EXTINF:-1 tvg-id="Asianet.in" tvg-logo="https://i.imgur.com/TkeAzU4.png" group-title="Entertainment",Asianet UK
 https://yupptvliveten2.yuppcdn.net/280722/smil:starasianetuk.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/h0cJG3U.png" group-title="Entertainment",Zee Keralam HD
-https://spidyworld.ml/star7/spidy.m3u8/?id=47969
+https://zee.yashrajmod.online/@yashrajmod.44/api.php?c=0-9-129&e=.m3u8
 #EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-logo="https://i.imgur.com/uV3SgSb.jpg" group-title="Entertainment",Mazhavil Manorama
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
 #EXTINF:-1 tvg-id="AsianetPlus.in" tvg-logo="https://i.imgur.com/gEq5lHd.png" group-title="Entertainment",Asianet Plus
@@ -21,11 +21,11 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 #EXTINF:-1 tvg-id="AsianetMovies.in" tvg-logo="https://i.imgur.com/23ktt7p.png" group-title="Entertainment",Asianet Movies
 https://yupptvliveten2.yuppcdn.net/280722/smil:asianetmovies.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SuryaMovies.in" tvg-logo="https://i.imgur.com/jGyUuVU.jpg" group-title="Entertainment",Surya Movies
-https://livesportsclub.me/starxlive/index.m3u8/?id=47947&token=highrisk
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/I1HtRUG.png" group-title="Entertainment",Asianet Middle East
-https://livesportsclub.me/starxlive/index.m3u8/?id=50998&token=highrisk
+https://3an3.short.gy/suryamovies/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/AME.png/revision/latest?cb=20200307083953" group-title="Entertainment",Asianet Middle East
+https://madplay.live/starlive/index.m3u8/?id=50998&token=highrisk
 #EXTINF:-1 tvg-id="KairaliTV.in" tvg-logo="https://i.imgur.com/kVCJThg.jpg" group-title="Entertainment",Kairali TV
-https://madplay.live/jioliv/master.m3u8/?id=710&token=MR.NITROX-127l
+https://3an3.short.gy/KairaliTV/800.m3u8
 #EXTINF:-1 tvg-id="WeTV.in" tvg-logo="https://i.imgur.com/IxBTtib.jpg" group-title="Entertainment",We TV
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/wetv_nim_https/050522/wetv/playlist.m3u8
 #EXTINF:-1 tvg-id="AmritaTV.in" tvg-logo="https://i.imgur.com/UqxNPMZ.jpg" group-title="Entertainment",Amrita TV 
@@ -54,31 +54,27 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 https://d1vd9xhq6jlm48.cloudfront.net/out/v1/71fcc57c8fe74c5b938451bc2435a93e/index_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JCId5rm.png" group-title="Entertainment",Shekinah TV
 https://shekinah.pc.cdn.bitgravity.com/shekinah/live/amlst:shekinahchannel_,b256,b512,b720,b1200,b1600,.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/V8AKZyE.jpg" group-title="Entertainment",Shalom TV
-https://player-api.new.livestream.com/accounts/25038049/events/7483919/broadcasts/235394374.secure.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-logo="https://i.imgur.com/Fw8yvvx.png" group-title="Entertainment",Discovery HD Malayalam
 https://varun-iptv.netlify.app/m3u/discoverymalayalam.m3u8
-#EXTINF:-1 tvg-id="StarSports1.in" tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2020/02/star1hd-185x278.webp" group-title="Entertainment",Star Sports 1 HD
-https://livesportsclub.me/starxlive/index.m3u8/?id=48106&token=highrisk
-#EXTINF:-1 tvg-id="StarSports1.in" tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2020/04/star1hdhindi-185x278.webp" group-title="Entertainment",Star Sports 1 Hindi
-https://livesportsclub.me/starxlive/index.m3u8/?id=51218&token=highrisk
-#EXTINF:-1 tvg-id="DDSports.in" tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2020/02/ddsports-150x150.jpg" group-title="Entertainment",DD Sports
-https://madplay.live/jioliv/master.m3u8/?id=204&token=MR.NITROX-127l
-#EXTINF:-1 tvg-id="SonyTEN1.in" tvg-logo="https://i.imgur.com/NmlUdLb.png" group-title="Entertainment",Sony Ten 1
+#EXTINF:-1 tvg-id="StarSports1.in" tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2020/02/star1hd-185x278.webp" group-title="Sports",Star Sports 1 HD
+https://madplay.live/starlive/index.m3u8/?id=48106&token=highrisk
+#EXTINF:-1 tvg-id="StarSports1.in" tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2020/04/star1hdhindi-185x278.webp" group-title="Sports",Star Sports 1 Hindi
+https://madplay.live/starlive/index.m3u8/?id=51218&token=highrisk
+#EXTINF:-1 tvg-id="SonyTEN1.in" tvg-logo="https://i.imgur.com/NmlUdLb.png" group-title="Sports",Sony Ten 1
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
-#EXTINF:-1 tvg-id="SonyTEN2.in" tvg-logo="https://i.imgur.com/WhBOak7.png" group-title="Entertainment",Sony Ten 2
+#EXTINF:-1 tvg-id="SonyTEN2.in" tvg-logo="https://i.imgur.com/WhBOak7.png" group-title="Sports",Sony Ten 2
 https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
-#EXTINF:-1 tvg-id="SonyTEN3.in" tvg-logo="https://i.imgur.com/pKe7I1h.png" group-title="Entertainment",Sony Ten 3
+#EXTINF:-1 tvg-id="SonyTEN3.in" tvg-logo="https://i.imgur.com/pKe7I1h.png" group-title="Sports",Sony Ten 3
 https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mtXzI4L.png" group-title="Entertainment",Sony Ten 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mtXzI4L.png" group-title="Sports",Sony Ten 4
 https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0nNPsUI.jpg" group-title="Entertainment",Sony Ten 5
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0nNPsUI.jpg" group-title="Sports",Sony Ten 5
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
-#EXTINF:-1 tvg-id="SonySIX.in" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Sony-Six.png" group-title="Entertainment",Sony Six
-https://livesportsclub.me/starxlive/index.m3u8/?id=48154&token=highrisk
-#EXTINF:-1 tvg-id="SonyYAY.in" tvg-logo="https://i.imgur.com/3r99P9m.png" group-title="Entertainment",Sony YAY
+#EXTINF:-1 tvg-id="SonySIX.in" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Sony-Six.png" group-title="Sports",Sony Six
+https://madplay.live/starlive/index.m3u8/?id=48154&token=highrisk
+#EXTINF:-1 tvg-id="SonyYAY.in" tvg-logo="https://i.imgur.com/3r99P9m.png" group-title="Kids",Sony YAY
 https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
-#EXTINF:-1 tvg-id="DiscoveryKids.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="Entertainment",Discovery Kids 
-https://s4v4r3k4.rocketcdn.me/delta/discovery/api/Discovery_Kids.m3u8
-#EXTINF:-1 tvg-id="SonyYAY.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Gubbare-cl.png/revision/latest?cb=20210507104727" group-title="Entertainment",Gubbare
+#EXTINF:-1 tvg-id="DiscoveryKids.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="Kids",Discovery Kids 
+https://varun-iptv.netlify.app/m3u/discoverykidsmalayalam.m3u8
+#EXTINF:-1 tvg-id="SonyYAY.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Gubbare-cl.png/revision/latest?cb=20210507104727" group-title="Kids",Gubbare
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
