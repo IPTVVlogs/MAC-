@@ -76,6 +76,8 @@ https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
 https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0nNPsUI.jpg" group-title="All",Sony Ten 5
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
+#EXTINF:-1 tvg-id="SonyYAY.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/Kochu_TV.jpg/revision/latest?cb=20190122083202" group-title="All",Kochu TV
+https://3an3.short.gy/kochutv/sx.m3u8
 #EXTINF:-1 tvg-id="SonySIX" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Sony-Six.png" group-title="All",Sony Six
 http://yashrajmod.ml/master.m3u8?id=525
 #EXTINF:-1 tvg-id="SonyYAY.in" tvg-logo="https://i.imgur.com/3r99P9m.png" group-title="All",Sony YAY
