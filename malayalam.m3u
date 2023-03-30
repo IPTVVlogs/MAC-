@@ -23,7 +23,7 @@ https://3an3.short.gy/suryamovies/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/AME.png/revision/latest?cb=20200307083953" group-title="All",Asianet Middle East
 https://madplay.live/starlive/index.m3u8/?id=50998&token=highrisk
 #EXTINF:-1 tvg-id="KairaliTV.in" tvg-logo="https://i.imgur.com/kVCJThg.jpg" group-title="All",Kairali TV
-https://3an3.short.gy/KairaliTV/800.m3u8
+http://yashrajmod.ml/master.m3u8?id=710
 #EXTINF:-1 tvg-id="WeTV.in" tvg-logo="https://i.imgur.com/IxBTtib.jpg" group-title="All",We TV
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/wetv_nim_https/050522/wetv/playlist.m3u8
 #EXTINF:-1 tvg-id="AmritaTV.in" tvg-logo="https://i.imgur.com/UqxNPMZ.jpg" group-title="All",Amrita TV 
@@ -61,9 +61,9 @@ https://raw.githubusercontent.com/IPTVVlogs/MAC-/main/discoverykidsmal.m3u8
 #EXTINF:-1 tvg-id="SonyYAY.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Gubbare-cl.png/revision/latest?cb=20210507104727" group-title="All",Gubbare
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 #EXTINF:-1 tvg-id="StarSports1.in" tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2020/02/star1hd-185x278.webp" group-title="All",Star Sports 1 HD
-https://tamiltv.store/playlist/Uk9BQUc3c2wrMDU5WktWTEpuaUs1V2pRaG5lT1J2dmt5M2JDRkN3REdKa05qRWZhS0lpZk9BN0tCNjFtOUIxVkpNeXpyNGQ1Wnh4cXpFU2h5YkZyL0E9PQ,,/master.m3u8?token=NWhnZk1zRE5Mb3J5S3NoV2xiQXVVZlhEZVVpbGRGTnVINzZXbFFUVmtBUWpCdFp5VkhKbjVFRDhLdWVCbG0zaDRld2FqdE50bFhHVFpxaVU0UGpEU2c9PQ,,
+https://eas4.gcdn.co/UKS45/index.m3u8
 #EXTINF:-1 tvg-id="StarSports1.in" tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2020/04/star1hdhindi-185x278.webp" group-title="All",Star Sports 1 Hindi
-https://tamiltv.store/playlist/UXdaNDU3eGRxVEtMempEeFVqb2Q4c0ZiVERqWU92NVJYRDVtVWV1N2dUaVJWL0IxVkE4emwvZzFVNEdDU29NZ282NHJxblFxSi9oQUkzZWJzNWFXRFE9PQ,,/master.m3u8?token=Nkl6NUw3UjRqRkU3U204Um5HUlJ0emNtSExISG8ySVlFcGVYR1pBeHpsdEliVjdRNTBRVWxLVXorT2ZYQllUcVdYK2w2MFdjaHpJRVNwT0ZtRnBMUEE9PQ,,
+https://eas4.gcdn.co/UKS69/index.m3u8
 #EXTINF:-1 tvg-id="SonyTEN1.in" tvg-logo="https://i.imgur.com/NmlUdLb.png" group-title="All",Sony Ten 1
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 #EXTINF:-1 tvg-id="SonyTEN2.in" tvg-logo="https://i.imgur.com/WhBOak7.png" group-title="All",Sony Ten 2
@@ -75,6 +75,4 @@ https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0nNPsUI.jpg" group-title="All",Sony Ten 5
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 #EXTINF:-1 tvg-id="SonySIX" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Sony-Six.png" group-title="All",Sony Six
-https://madplay.live/starlive/index.m3u8/?id=48154&token=highrisk
-#EXTINF:-1 tvg-id="SonySIX" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Sony-Six.png" group-title="All",Movies
-https://germany1.vodroute.com/vodedge1/kerala/newrelease/porinju_mariam_jose.mp4/nimble-absolute-url-chunk.m3u8?nimblesessionid=417971&wmsAuthSign=c2VydmVyX3RpbWU9My8yNy8yMDIzIDU6Mjc6NDEgUE0maGFzaF92YWx1ZT1abExXTlduU3JjdXI3VGIzSCtZc21BPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTE1&nimbleabsoluteurl=4JwzA57EoQTKEmXTRGI+4k0AkbpQjabLS4nyKDTtoh8xCFBRCOqOhKKxYi3grImJGuVfUOmcjIr1UI0OW7%2FJDASuFgiflWKq0N3dzWrTWvVNfOgKcNvZPK1pp2egmSjaJZBI9Oa%2FWBN0sXTlhF2F0Z2qmQPsicwcT4kg71ARYoGjk7Mq99DZUJ1Nitbq2Z715QvMpOvQVxK7rKnHdgQDBhQ0uZFHr9i8gb82p2SeNp07Vmle6MqmIkCLaMlV0ifDWgJ+7pDpo+9V1mj7CcXte%2Fjp9YSYqJVc+JfGDM2rioHF5%2Ft0RjKGGXU0Q81Tw5Qn6NompyomKd8sodppaBs8VA==&nimbleurlhash=qVvp7ATolvj8dLIHBl6TbA==&nimbleurliv=m2fuj++EOaosTvPRpV2oHg==
+http://yashrajmod.ml/master.m3u8?id=525
