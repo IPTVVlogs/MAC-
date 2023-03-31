@@ -78,10 +78,12 @@ https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
 https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0nNPsUI.jpg" group-title="All",Sony Ten 5
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
-#EXTINF:-1 tvg-id="SonyYAY.in" tvg-logo="https://i.ibb.co/HBqdJgw/Kochu-TV-removebg-preview.png" group-title="All",Kochu TV
-https://3an3.short.gy/kochutv/sx.m3u8
 #EXTINF:-1 tvg-id="SonySIX" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Sony-Six.png" group-title="All",Sony Six
 http://yashrajmod.ml/master.m3u8?id=525
+#EXTINF:-1 tvg-id="" tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2021/08/images-1-1-1.png" group-title="All",Astro Cricket
+https://eas4.gcdn.co/UKS2/index.m3u8
+#EXTINF:-1 tvg-id="SonyYAY.in" tvg-logo="https://i.ibb.co/HBqdJgw/Kochu-TV-removebg-preview.png" group-title="All",Kochu TV
+https://3an3.short.gy/kochutv/sx.m3u8
 #EXTINF:-1 tvg-id="SonyYAY.in" tvg-logo="https://i.imgur.com/3r99P9m.png" group-title="All",Sony YAY
 https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKids.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="All",Discovery Kids 
