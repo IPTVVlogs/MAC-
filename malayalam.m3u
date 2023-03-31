@@ -1,3 +1,5 @@
+#EXTINF:-1 tvg-id="" tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2021/06/images-1-2-150x150.png" group-title="All",Tata IPL 2023
+https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/fwmcBP85NwEy-yNl16g9vsyS0zXQm2AaDjDbzw1Jb-wxfIheOJ5CCAhb_fYUGWCSNDVcY0jfEjnSjIciaI9Lng/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/tw_master_dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 tvg-id="Asianet.in" tvg-logo="https://i.imgur.com/k7ZNdbJ.png" group-title="All",Big Boss 5
 https://yupptvliveten2.yuppcdn.net/280722/smil:starasianet.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Asianet.in" tvg-logo="https://i.imgur.com/p4Eulli.jpg" group-title="All",Asianet
@@ -82,8 +84,6 @@ https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 #EXTINF:-1 tvg-id="SonySIX" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Sony-Six.png" group-title="All",Sony Six
 http://yashrajmod.ml/master.m3u8?id=525
-#EXTINF:-1 tvg-id="" tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2021/08/images-1-1-1.png" group-title="All",Astro Cricket
-https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/fwmcBP85NwEy-yNl16g9vsyS0zXQm2AaDjDbzw1Jb-wxfIheOJ5CCAhb_fYUGWCSNDVcY0jfEjnSjIciaI9Lng/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/tw_master_dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 tvg-id="SonyYAY.in" tvg-logo="https://i.ibb.co/HBqdJgw/Kochu-TV-removebg-preview.png" group-title="All",Kochu TV
 https://3an3.short.gy/kochutv/sx.m3u8
 #EXTINF:-1 tvg-id="SonyYAY.in" tvg-logo="https://i.imgur.com/3r99P9m.png" group-title="All",Sony YAY
