@@ -1,0 +1,30 @@
+#EXTM3U
+#EXT-X-VERSION:7
+## Created with Broadpeak BkS350 Origin Packager  (version=1.11.2-24244)
+
+# AUDIO groups
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aacl-97",LANGUAGE="en",NAME="English",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2"
+
+# variants
+#EXT-X-STREAM-INF:BANDWIDTH=265000,AVERAGE-BANDWIDTH=241000,CODECS="mp4a.40.2,avc1.64001F",RESOLUTION=512x288,FRAME-RATE=25,VIDEO-RANGE=SDR,AUDIO="audio-aacl-97",CLOSED-CAPTIONS=NONE
+https://livesportsclub.tech/jiox/jiotv/streams/dc36dc692044cebad1cb79d77af0830e/Surya_Movies_MOB-audio_97234_eng=97200-video=130000.m3u8?usfAuth=
+#EXT-X-STREAM-INF:BANDWIDTH=382000,AVERAGE-BANDWIDTH=347000,CODECS="mp4a.40.2,avc1.64001F",RESOLUTION=426x240,FRAME-RATE=25,VIDEO-RANGE=SDR,AUDIO="audio-aacl-97",CLOSED-CAPTIONS=NONE
+https://livesportsclub.tech/jiox/jiotv/streams/dc36dc692044cebad1cb79d77af0830e/Surya_Movies_MOB-audio_97234_eng=97200-video=230000.m3u8?usfAuth=
+#EXT-X-STREAM-INF:BANDWIDTH=510000,AVERAGE-BANDWIDTH=464000,CODECS="mp4a.40.2,avc1.64001F",RESOLUTION=512x288,FRAME-RATE=25,VIDEO-RANGE=SDR,AUDIO="audio-aacl-97",CLOSED-CAPTIONS=NONE
+https://livesportsclub.tech/jiox/jiotv/streams/dc36dc692044cebad1cb79d77af0830e/Surya_Movies_MOB-audio_97234_eng=97200-video=340000.m3u8?usfAuth=
+#EXT-X-STREAM-INF:BANDWIDTH=802000,AVERAGE-BANDWIDTH=729000,CODECS="mp4a.40.2,avc1.64001F",RESOLUTION=768x432,FRAME-RATE=25,VIDEO-RANGE=SDR,AUDIO="audio-aacl-97",CLOSED-CAPTIONS=NONE
+https://livesportsclub.tech/jiox/jiotv/streams/dc36dc692044cebad1cb79d77af0830e/Surya_Movies_MOB-audio_97234_eng=97200-video=590000.m3u8?usfAuth=
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,AVERAGE-BANDWIDTH=909000,CODECS="mp4a.40.2,avc1.64001F",RESOLUTION=768x432,FRAME-RATE=25,VIDEO-RANGE=SDR,AUDIO="audio-aacl-97",CLOSED-CAPTIONS=NONE
+https://livesportsclub.tech/jiox/jiotv/streams/dc36dc692044cebad1cb79d77af0830e/Surya_Movies_MOB-audio_97234_eng=97200-video=760000.m3u8?usfAuth=
+#EXT-X-STREAM-INF:BANDWIDTH=2096000,AVERAGE-BANDWIDTH=1906000,CODECS="mp4a.40.2,avc1.640028",RESOLUTION=1024x576,FRAME-RATE=25,VIDEO-RANGE=SDR,AUDIO="audio-aacl-97",CLOSED-CAPTIONS=NONE
+https://livesportsclub.tech/jiox/jiotv/streams/dc36dc692044cebad1cb79d77af0830e/Surya_Movies_MOB-audio_97234_eng=97200-video=1700000.m3u8?usfAuth=
+
+# variants
+#EXT-X-STREAM-INF:BANDWIDTH=114000,AVERAGE-BANDWIDTH=104000,CODECS="mp4a.40.2",AUDIO="audio-aacl-97"
+https://livesportsclub.tech/jiox/jiotv/streams/dc36dc692044cebad1cb79d77af0830e/Surya_Movies_MOB-audio_97234_eng=97200.m3u8?usfAuth=
+
+# keyframes
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=34000,CODECS="avc1.64001F",RESOLUTION=426x240,VIDEO-RANGE=SDR,URI="https://livesportsclub.tech/jiox/jiotv/streams/dc36dc692044cebad1cb79d77af0830e/keyframes/Surya_Movies_MOB-video=230000.m3u8?usfAuth="
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=19000,CODECS="avc1.64001F",RESOLUTION=512x288,VIDEO-RANGE=SDR,URI="https://livesportsclub.tech/jiox/jiotv/streams/dc36dc692044cebad1cb79d77af0830e/keyframes/Surya_Movies_MOB-video=130000.m3u8?usfAuth="
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=86000,CODECS="avc1.64001F",RESOLUTION=768x432,VIDEO-RANGE=SDR,URI="https://livesportsclub.tech/jiox/jiotv/streams/dc36dc692044cebad1cb79d77af0830e/keyframes/Surya_Movies_MOB-video=590000.m3u8?usfAuth="
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=248000,CODECS="avc1.640028",RESOLUTION=1024x576,VIDEO-RANGE=SDR,URI="https://livesportsclub.tech/jiox/jiotv/streams/dc36dc692044cebad1cb79d77af0830e/keyframes/Surya_Movies_MOB-video=1700000.m3u8?usfAuth="
