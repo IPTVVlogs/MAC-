@@ -13,7 +13,7 @@ https://yashrajmod.online/zee/@yashrajmod.L8/api.php?c=0-9-129
 #EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-logo="https://i.imgur.com/uV3SgSb.jpg" group-title="All",Mazhavil Manorama
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
 #EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-logo="https://i.imgur.com/624Q6vh.jpg" group-title="All",Mazhavil Manorama HD
-https://beastplayer.tk/master.php?id=844&e=.m3u8
+https://beastplayer.tk/jiotv/master.php?id=844&e=.m3u8
 #EXTINF:-1 tvg-id="AsianetPlus.in" tvg-logo="https://i.imgur.com/gEq5lHd.png" group-title="All",Asianet Plus
 https://yupptvliveten2.yuppcdn.net/280722/smil:starasianetp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AsianetPlus.in" tvg-logo="https://i.imgur.com/gEq5lHd.png" group-title="All",Asianet Plus UK
@@ -23,11 +23,15 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 #EXTINF:-1 tvg-id="AsianetMovies.in" tvg-logo="https://i.imgur.com/23ktt7p.png" group-title="All",Asianet Movies
 https://yupptvliveten2.yuppcdn.net/280722/smil:asianetmovies.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SuryaMovies.in" tvg-logo="https://i.imgur.com/jGyUuVU.jpg" group-title="All",Surya Movies
-https://madplay.live/starlive/index.m3u8/?id=47947&token=highrisk&token=highrisk
+http://yashraj-star7.ml/master.m3u8/?id=1754
 #EXTINF:-1 tvg-id="KairaliTV.in" tvg-logo="https://i.imgur.com/kVCJThg.jpg" group-title="All",Kairali TV
-https://beastplayer.tk/master.php?id=710&e=.m3u8
+https://beastplayer.tk/jiotv/master.php?id=710&e=.m3u8
 #EXTINF:-1 tvg-id="WeTV.in" tvg-logo="https://i.imgur.com/IxBTtib.jpg" group-title="All",We TV
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/wetv_nim_https/050522/wetv/playlist.m3u8
+#EXTINF:-1 tvg-id="SuryaMovies.in" tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2020/01/suryamusic1-1-185x278.jpg" group-title="All",Surya Music
+http://yashraj-star7.ml/master.m3u8/?id=747
+#EXTINF:-1 tvg-id="SuryaMovies.in" tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2020/04/suryacomedy-1-185x278.jpg" group-title="All",Surya Comedy
+http://yashraj-star7.ml/master.m3u8/?id=1662
 #EXTINF:-1 tvg-id="AmritaTV.in" tvg-logo="https://i.imgur.com/UqxNPMZ.jpg" group-title="All",Amrita TV 
 https://dr1zhpsuem5f4.cloudfront.net/master_1000.m3u8
 #EXTINF:-1 tvg-id="SafariTV.in" tvg-logo="https://i.imgur.com/6Rm1v9C.jpg" group-title="All",Safari TV
@@ -61,7 +65,7 @@ https://varun-iptv.netlify.app/m3u/discoverymalayalam.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JCId5rm.png" group-title="All",Shekinah TV
 https://shekinah.pc.cdn.bitgravity.com/shekinah/live/amlst:shekinahchannel_,b256,b512,b720,b1200,b1600,.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-id="StarSports1.in" tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2020/02/star1hd-185x278.webp" group-title="All",Star Sports 1 HD
-https://kingofsports.b-cdn.net/crichd/gocast.php?id=star1in
+http://51.159.210.91/madstream.live/starsports1/index.m3u8
 #EXTINF:-1 tvg-id="StarSports1.in" tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2020/04/star1hdhindi-185x278.webp" group-title="All",Star Sports 1 Hindi
 http://51.159.210.91/madstream.live/starhindi/index.m3u8
 #EXTINF:-1 tvg-id="StarSports1.in" tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2020/04/star2hd.webp" group-title="All",Star Sports 2 HD
