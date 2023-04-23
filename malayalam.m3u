@@ -1,3 +1,5 @@
+#EXTINF:-1 tvg-id="StarSports1.in" tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2022/03/ipl-185x278.webp" group-title="All",Tata IPL 2023 - English
+https://prod-sports-south-gm.jiocinema.com/hls/live/2100298/hd_akamai_iosmob_avc_eng_ipl32/master.m3u8
 #EXTINF:-1 tvg-id="StarSports1.in" tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2022/03/ipl-185x278.webp" group-title="All",Tata IPL 2023 - Malayalam
 https://prod-sports-south-gm.jiocinema.com/hls/live/2099794/hd_akamai_iosmob_avc_mal_ipl32/master.m3u8
 #EXTINF:-1 tvg-id="Asianet.in" tvg-logo="https://i.imgur.com/k7ZNdbJ.png" group-title="All",Big Boss 5
@@ -66,8 +68,6 @@ https://shekinah.pc.cdn.bitgravity.com/shekinah/live/amlst:shekinahchannel_,b256
 http://202.125.144.115:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="StarSports1.in" tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2020/04/star1hdhindi-185x278.webp" group-title="All",Star Sports 1 Hindi
 http://202.125.144.115:8000/play/a00v/index.m3u8
-#EXTINF:-1 tvg-id="StarSports1.in" tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2020/04/star2hd.webp" group-title="All",Star Sports 2 HD
-http://202.125.144.115:8000/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="SonyTEN1.in" tvg-logo="https://i.imgur.com/NmlUdLb.png" group-title="All",Sony Ten 1
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 #EXTINF:-1 tvg-id="SonyTEN2.in" tvg-logo="https://i.imgur.com/WhBOak7.png" group-title="All",Sony Ten 2
@@ -83,7 +83,7 @@ https://lokiiptv.in/nocast.m3u8/?id=556
 #EXTINF:-1 tvg-id="SonyYAY.in" tvg-logo="https://i.imgur.com/3r99P9m.png" group-title="All",Sony YAY
 https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
 #EXTINF:-1 tvg-id="SonyYAY.in" tvg-logo="https://i.imgur.com/30JAHIO.png" group-title="All",Pogo TV Hindi
-http://202.125.144.115:8000/play/a00i/index.m3u8
+https://lokiiptv.in/nocast.m3u8/?id=559
 #EXTINF:-1 tvg-id="SonyYAY.in" tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2021/08/cartnet-150x150.webp" group-title="All",Cartoon Network Hindi
 http://202.125.144.115:8000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKids.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="All",Discovery Kids 
