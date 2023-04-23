@@ -1,5 +1,5 @@
-#EXTINF:-1 tvg-id="StarSports1.in" tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2022/03/ipl-185x278.webp" group-title="All",Tata IPL 2023
-https://t20hd.site/live/t1.php
+#EXTINF:-1 tvg-id="StarSports1.in" tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2022/03/ipl-185x278.webp" group-title="All",Tata IPL 2023 - Malayalam
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Mal_UHD_IDC_BTS/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="Asianet.in" tvg-logo="https://i.imgur.com/k7ZNdbJ.png" group-title="All",Big Boss 5
 https://yupptvliveten2.yuppcdn.net/280722/smil:starasianet.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Asianet.in" tvg-logo="https://i.imgur.com/p4Eulli.jpg" group-title="All",Asianet
@@ -9,7 +9,7 @@ https://yupptvliveten2.yuppcdn.net/280722/smil:suryahd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Asianet.in" tvg-logo="https://i.imgur.com/TkeAzU4.png" group-title="All",Asianet UK
 https://yupptvliveten2.yuppcdn.net/280722/smil:starasianetuk.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/h0cJG3U.png" group-title="All",Zee Keralam HD
-https://yashrajmod.online/zee/@yashrajmod.L8/api.php?c=0-9-129
+https://cflive-esports-english.zee5.com/out/v1/d9e79357d05745dc995e916b1e69f93d/Zee_Keralam_HD/index.m3u8
 #EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-logo="https://i.imgur.com/uV3SgSb.jpg" group-title="All",Mazhavil Manorama
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
 #EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-logo="https://i.imgur.com/624Q6vh.jpg" group-title="All",Mazhavil Manorama HD
@@ -65,11 +65,11 @@ https://varun-iptv.netlify.app/m3u/discoverymalayalam.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JCId5rm.png" group-title="All",Shekinah TV
 https://shekinah.pc.cdn.bitgravity.com/shekinah/live/amlst:shekinahchannel_,b256,b512,b720,b1200,b1600,.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-id="StarSports1.in" tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2020/02/star1hd-185x278.webp" group-title="All",Star Sports 1 HD
-http://51.159.210.91/madstream.live/starsports1/index.m3u8
+http://202.125.144.115:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="StarSports1.in" tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2020/04/star1hdhindi-185x278.webp" group-title="All",Star Sports 1 Hindi
-http://51.159.210.91/madstream.live/starhindi/index.m3u8
+http://202.125.144.115:8000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="StarSports1.in" tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2020/04/star2hd.webp" group-title="All",Star Sports 2 HD
-https://madplay.live/starlive/index.m3u8/?id=48103&token=highrisk&token=highrisk
+http://202.125.144.115:8000/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="SonyTEN1.in" tvg-logo="https://i.imgur.com/NmlUdLb.png" group-title="All",Sony Ten 1
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 #EXTINF:-1 tvg-id="SonyTEN2.in" tvg-logo="https://i.imgur.com/WhBOak7.png" group-title="All",Sony Ten 2
