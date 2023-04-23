@@ -1,7 +1,7 @@
 #EXTINF:-1 tvg-id="StarSports1.in" tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2022/03/ipl-185x278.webp" group-title="All",Tata IPL 2023 - English
-https://prod-sports-south-gm.jiocinema.com/hls/live/2100298/hd_akamai_iosmob_avc_eng_ipl32/master.m3u8
+https://prod-sports-south-gm.jiocinema.com/bpk-tv/M2_IPL23_Eng_HD_IDC_BTS/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="StarSports1.in" tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2022/03/ipl-185x278.webp" group-title="All",Tata IPL 2023 - Malayalam
-https://prod-sports-south-gm.jiocinema.com/hls/live/2099794/hd_akamai_iosmob_avc_mal_ipl32/master.m3u8
+https://prod-sports-south-gm.jiocinema.com/bpk-tv/M2_IPL23_Mal_HD_IDC_BTS/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="Asianet.in" tvg-logo="https://i.imgur.com/k7ZNdbJ.png" group-title="All",Big Boss 5
 https://yupptvliveten2.yuppcdn.net/280722/smil:starasianet.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Asianet.in" tvg-logo="https://i.imgur.com/p4Eulli.jpg" group-title="All",Asianet
