@@ -10,6 +10,8 @@ https://lokiiptv.in/nocast.m3u8/?id=900
 https://yupptvliveten2.yuppcdn.net/280722/smil:starasianetuk.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/h0cJG3U.png" group-title="All",Zee Keralam HD
 https://cflive-esports-english.zee5.com/out/v1/d9e79357d05745dc995e916b1e69f93d/Zee_Keralam_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2023/04/zeeksd.png" group-title="All",Zee Keralam ME
+https://cflive-esports-hindi.zee5.com/out/v1/c2a01fab468b452d9af1a1aa66644d9d/Zee_Keralam_ME_SD/index.m3u8
 #EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-logo="https://i.imgur.com/uV3SgSb.jpg" group-title="All",Mazhavil Manorama
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
 #EXTINF:-1 tvg-id="AsianetPlus.in" tvg-logo="https://i.imgur.com/gEq5lHd.png" group-title="All",Asianet Plus
@@ -78,11 +80,15 @@ https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
 https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0nNPsUI.jpg" group-title="All",Sony Six HD
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
+#EXTINF:-1 tvg-id="SonyYAY.in" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kochu_TV.png" group-title="All",Kochu TV
+https://lokiiptv.in/nocast.m3u8/?id=556
 #EXTINF:-1 tvg-id="SonyYAY.in" tvg-logo="https://i.imgur.com/3r99P9m.png" group-title="All",Sony YAY
 https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
+#EXTINF:-1 tvg-id="SonyYAY.in" tvg-logo="https://i.imgur.com/30JAHIO.png" group-title="All",Pogo TV Hindi
+http://202.125.144.115:8000/play/a00i/index.m3u8
+#EXTINF:-1 tvg-id="SonyYAY.in" tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2021/08/cartnet-150x150.webp" group-title="All",Cartoon Network Hindi
+http://202.125.144.115:8000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKids.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="All",Discovery Kids 
 https://raw.githubusercontent.com/IPTVVlogs/MAC-/main/discoverykidsmal.m3u8
 #EXTINF:-1 tvg-id="SonyYAY.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Gubbare-cl.png/revision/latest?cb=20210507104727" group-title="All",Gubbare
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
-#EXTINF:-1 tvg-id="SonyYAY.in" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kochu_TV.png" group-title="All",Kochu TV
-http://moviescity.ml/master.m3u8/?id=556
