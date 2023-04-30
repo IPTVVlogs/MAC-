@@ -4,7 +4,7 @@ https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Eng_HD_IDC_AND/Fallba
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Mal_HD_IDC_AND/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="Asianet.in" tvg-logo="https://i.imgur.com/k7ZNdbJ.png" group-title="All",Big Boss 5
 https://yupptvliveten2.yuppcdn.net/280722/smil:starasianet.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Asianet.in" tvg-logo="https://i.imgur.com/p4Eulli.jpg" group-title="All",Asianet
+#EXTINF:-1 tvg-id="Asianet" tvg-logo="https://i.imgur.com/p4Eulli.jpg" group-title="All",Asianet
 https://yupptvliveten2.yuppcdn.net/280722/smil:starasianet.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Surya.in" tvg-logo="https://i.imgur.com/my7xncW.jpg" group-title="All",Surya HD
 https://www.madstreams.ga/jiotv/app/live/900/null/index.m3u8
@@ -22,7 +22,7 @@ https://yupptvliveten2.yuppcdn.net/280722/smil:starasianetpuk.smil/playlist.m3u8
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
 #EXTINF:-1 tvg-id="AsianetMovies.in" tvg-logo="https://i.imgur.com/23ktt7p.png" group-title="All",Asianet Movies
 https://yupptvliveten2.yuppcdn.net/280722/smil:asianetmovies.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SuryaMovies.in" tvg-logo="https://i.imgur.com/jGyUuVU.jpg" group-title="All",Surya Movies
+#EXTINF:-1 tvg-id="Surya Movies" tvg-logo="https://i.imgur.com/jGyUuVU.jpg" group-title="All",Surya Movies
 https://www.madstreams.ga/jiotv/app/live/1754/null/index.m3u8
 #EXTINF:-1 tvg-id="SuryaMovies.in" tvg-logo="https://i.imgur.com/I1HtRUG.png" group-title="All",Asianet Middle East
 https://yupplivefragcp2.yuppcdn.net/190423/smil:asianettvme.smil/playlist.m3u8
