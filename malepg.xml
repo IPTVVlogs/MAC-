@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<site site="tatasky.com" generator-info-name="WebGrab+Plus/w MDB & REX Postprocess -- version V3.2.1.3 -- Jan van Straaten">
+
+
+-<channels>
+
+<channel site="tatasky.com" xmltv_id="Asianet" site_id="289" update="i">Asianet</channel>
+
+<channel site="tatasky.com" xmltv_id="Asianet Plus" site_id="294" update="i">Asianet Plus</channel>
+
+<channel site="tatasky.com" xmltv_id="Zee Keralam HD" site_id="694" update="i">Zee Keralam HD</channel>
+
+<channel site="tatasky.com" xmltv_id="Zee Keralam" site_id="684" update="i">Zee Keralam</channel>
+
+<channel site="tatasky.com" xmltv_id="Flowers" site_id="10" update="i">Flowers</channel>
+
+<channel site="tatasky.com" xmltv_id="Amrita TV" site_id="178" update="i">Amrita TV</channel>
+
+<channel site="tatasky.com" xmltv_id="Mazhavil Manorama" site_id="31" update="i">Mazhavil Manorama</channel>
+
+<channel site="tatasky.com" xmltv_id="Kairali TV" site_id="25" update="i">Kairali TV</channel>
+
+<channel site="tatasky.com" xmltv_id="We TV" site_id="553" update="i">We TV</channel>
+
+<channel site="tatasky.com" xmltv_id="Malayalam Naaptol" site_id="904" update="i">Malayalam Naaptol</channel>
+
+<channel site="tatasky.com" xmltv_id="Surya Movies" site_id="229" update="i">Surya Movies</channel>
+
+<channel site="tatasky.com" xmltv_id="Asianet Movies" site_id="293" update="i">Asianet Movies</channel>
+
+<channel site="tatasky.com" xmltv_id="Asianet Movies - Hot Star Feed" site_id="933" update="i">Asianet Movies - Hot Star Feed</channel>
+
+<channel site="tatasky.com" xmltv_id="Surya Comedy" site_id="481" update="i">Surya Comedy</channel>
+
+<channel site="tatasky.com" xmltv_id="Safari TV" site_id="436" update="i">Safari TV</channel>
+
+<channel site="tatasky.com" xmltv_id="Asianet News" site_id="532" update="i">Asianet News</channel>
+
+<channel site="tatasky.com" xmltv_id="Kairali News" site_id="211" update="i">Kairali News</channel>
+
+<channel site="tatasky.com" xmltv_id="Manorama News" site_id="87" update="i">Manorama News</channel>
+
+<channel site="tatasky.com" xmltv_id="Mathrubhumi News" site_id="394" update="i">Mathrubhumi News</channel>
+
+<channel site="tatasky.com" xmltv_id="News18 Kerala" site_id="66" update="i">News18 Kerala</channel>
+
+<channel site="tatasky.com" xmltv_id="Jaihind TV" site_id="370" update="i">Jaihind TV</channel>
+
+<channel site="tatasky.com" xmltv_id="Jeevan TV" site_id="372" update="i">Jeevan TV</channel>
+
+<channel site="tatasky.com" xmltv_id="Media One" site_id="576" update="i">Media One</channel>
+
+<channel site="tatasky.com" xmltv_id="Janam TV" site_id="270" update="i">Janam TV</channel>
+
+<channel site="tatasky.com" xmltv_id="Kaumudy TV" site_id="378" update="i">Kaumudy TV</channel>
+
+<channel site="tatasky.com" xmltv_id="Raj News Malayalam" site_id="428" update="i">Raj News Malayalam</channel>
+
+<channel site="tatasky.com" xmltv_id="Twenty Four" site_id="799" update="i">Twenty Four</channel>
+
+<channel site="tatasky.com" xmltv_id="KITE Victers" site_id="820" update="i">KITE Victers</channel>
+
+<channel site="tatasky.com" xmltv_id="DD Malayalam" site_id="328" update="i">DD Malayalam</channel>
+
+<channel site="tatasky.com" xmltv_id="Surya Music" site_id="483" update="i">Surya Music</channel>
+
+<channel site="tatasky.com" xmltv_id="Raj Musix Malayalam" site_id="541" update="i">Raj Musix Malayalam</channel>
+
+<channel site="tatasky.com" xmltv_id="Kappa TV" site_id="377" update="i">Kappa TV</channel>
+
+<channel site="tatasky.com" xmltv_id="Goodness" site_id="269" update="i">Goodness</channel>
+
+
+</channels>
+
+</site>
