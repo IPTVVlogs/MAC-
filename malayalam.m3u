@@ -44,7 +44,15 @@ https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/chunks.m3u8
 https://idvd.multitvsolution.com/idvo/kappatv_540p.m3u8
 #EXTINF:-1 tvg-id="Asianet.in" tvg-logo="https://i.imgur.com/lroQXCx.png" group-title="All",Kite Victers
 https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/victers/tv2/chunks.m3u8
-#EXTINF:-1 tvg-id="AsianetNews.in" tvg-logo="https://i.imgur.com/hqrMJAZ.jpg" group-title="All",Asianet News
+#EXTINF:-1 tvg-id="Asianet.in" tvg-logo="https://mhdtvworld.me/wp-content/uploads/2020/01/kvision.webp" group-title="All",Kerala Vision
+https://yupplivefragcp3.yuppcdn.net/260423/smil:keralavision.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Asianet.in" tvg-logo="https://i.imgur.com/ZILSAhh.jpg" group-title="All",Garshom TV
+https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
+#EXTINF:-1 tvg-id="Asianet.in" tvg-logo="https://i.imgur.com/JlQRLtH.jpg" group-title="All",M4 Malayalam
+https://app.m4stream.live/mfourmalayalamhls/live.m3u8
+#EXTINF:-1 tvg-id="Asianet.in" tvg-logo="https://i.imgur.com/k530iqQ.jpg" group-title="All",Anand TV
+https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8?token=D693400
+#EXTINF:-1 tvg-id="AsianetNews.in" tvg-logo="httpS://i.imgur.com/hqrMJAZ.jpg" group-title="All",Asianet News
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetnews_nim_https/240122/asianetnews/playlist.m3u8
 #EXTINF:-1 tvg-id="Mathrubhumi News.in" tvg-logo="https://i.imgur.com/9elo46x.jpg" group-title="All",Twenty Four News 
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/24_nim_https/110322/channel24/playlist.m3u8
