@@ -11,23 +11,23 @@ http://50.7.237.6:8080/ASIANETHD/index.m3u8
 #EXTINF:-1 tvg-id="Asianet" tvg-logo="https://i.imgur.com/p4Eulli.jpg" group-title="All",Asianet
 http://50.7.237.6:8080/ASIANETHD/index.m3u8
 #EXTINF:-1 tvg-id="Surya.in" tvg-logo="https://i.imgur.com/my7xncW.jpg" group-title="All",Surya HD
-https://www.livesportsclub.tk/jiotv/app/live/900/null/index.m3u8
+https://highrisk.select/jiotv/app/live/900/null/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/h0cJG3U.png" group-title="All",Zee Keralam HD
-https://z5ak-cmaflive.zee5.com/out/v1/55ba172aa0b149a4afac497876c54b01/Zee_Keralam_HD/index-connected.m3u8?hdnts=st=1684578311~exp=1684581311~acl=/out/v1/55ba172aa0b149a4afac497876c54b01/Zee_Keralam_HD/index-connected.m3u8*~hmac=dd51810c036cc362de109180f2b10dd8ab13aed2ea9e4277c23042b7b8d9c1de
+https://highrisk.select/starlive/index.m3u8/?id=47969&token=highrisk&token=highrisk
 #EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.me/wp-content/uploads/2023/04/zeeksd.png" group-title="All",Zee Keralam ME
 https://cflive-esports-hindi.zee5.com/out/v1/c2a01fab468b452d9af1a1aa66644d9d/Zee_Keralam_ME_SD/index.m3u8
 #EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-logo="https://i.imgur.com/uV3SgSb.jpg" group-title="All",Mazhavil Manorama
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
 #EXTINF:-1 tvg-id="AsianetPlus.in" tvg-logo="https://i.imgur.com/gEq5lHd.png" group-title="All",Asianet Plus
-http://mypanel.tv:80/live/zvaqwso4s/0h2vw2fdza/5576.m3u8
+http://ky-iptv.com:25461/live/eses2022/76fah53f/1806726.m3u8
 #EXTINF:-1 tvg-id="Flowers.in" tvg-logo="https://i.imgur.com/kDgTzUm.jpg" group-title="All",Flowers TV
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
 #EXTINF:-1 tvg-id="AsianetMovies.in" tvg-logo="https://i.imgur.com/23ktt7p.png" group-title="All",Asianet Movies
 http://mypanel.tv:80/live/zvaqwso4s/0h2vw2fdza/5577.m3u8
 #EXTINF:-1 tvg-id="Surya Movies" tvg-logo="https://i.imgur.com/jGyUuVU.jpg" group-title="All",Surya Movies
-https://www.livesportsclub.tk/jiotv/app/live/1754/null/index.m3u8
+https://highrisk.select/jiotv/app/live/1754/null/index.m3u8
 #EXTINF:-1 tvg-id="KairaliTV.in" tvg-logo="https://i.imgur.com/kVCJThg.jpg" group-title="All",Kairali TV
-https://www.livesportsclub.tk/jiotv/app/live/710/null/index.m3u8
+https://highrisk.select/jiotv/app/live/710/null/index.m3u8
 #EXTINF:-1 tvg-id="WeTV.in" tvg-logo="https://i.imgur.com/IxBTtib.jpg" group-title="All",We TV
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/wetv_nim_https/050522/wetv/playlist.m3u8
 #EXTINF:-1 tvg-id="SuryaMovies.in" tvg-logo="https://mhdtvworld.me/wp-content/uploads/2020/01/suryamusic1-1-185x278.jpg" group-title="All",Surya Music
@@ -81,7 +81,7 @@ https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0nNPsUI.jpg" group-title="All",Sony Six HD
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 #EXTINF:-1 tvg-id="SonyYAY.in" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kochu_TV.png" group-title="All",Kochu TV
-https://www.livesportsclub.tk/jiotv/app/live/556/null/index.m3u8
+https://highrisk.select/jiotv/app/live/556/null/index.m3u8
 #EXTINF:-1 tvg-id="SonyYAY.in" tvg-logo="https://i.imgur.com/3r99P9m.png" group-title="All",Sony YAY
 https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
 #EXTINF:-1 tvg-id="SonyYAY.in" tvg-logo="https://mhdtvworld.me/wp-content/uploads/2020/07/images-1-24.png.webp" group-title="All",Sonic Hindi
@@ -89,7 +89,7 @@ https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fal
 #EXTINF:-1 tvg-id="SonyYAY.in" tvg-logo="https://i.imgur.com/30JAHIO.png" group-title="All",Pogo TV Hindi
 https://highrisk.select/jiotv/app/live/559/null/index.m3u8
 #EXTINF:-1 tvg-id="SonyYAY.in" tvg-logo="https://mhdtvworld.me/wp-content/uploads/2021/08/cartnet-150x150.webp" group-title="All",Cartoon Network Hindi
-https://www.livesportsclub.tk/jiotv/app/live/816/null/index.m3u8
+https://highrisk.select/jiotv/app/live/816/null/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKids.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="All",Discovery Kids 
 https://raw.githubusercontent.com/IPTVVlogs/MAC-/main/discoverykidsmal.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKids.in" tvg-logo="https://mhdtvworld.me/wp-content/uploads/2020/01/wowkidzhindi.jpg" group-title="All",Wow Kidz
