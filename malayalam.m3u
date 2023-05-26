@@ -12,18 +12,16 @@ http://50.7.237.6:8080/ASIANETHD/index.m3u8
 http://50.7.237.6:8080/ASIANETHD/index.m3u8
 #EXTINF:-1 tvg-id="Surya.in" tvg-logo="https://i.imgur.com/my7xncW.jpg" group-title="All",Surya HD
 https://crichd.gq/jiox/app/live/900/Surya_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/h0cJG3U.png" group-title="All",Zee Keralam HD
-https://highrisk.select/starlive/index.m3u8/?id=47969&token=highrisk
-#EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.me/wp-content/uploads/2023/04/zeeksd.png" group-title="All",Zee Keralam ME
+#EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.me/wp-content/uploads/2023/04/zeeksd.png" group-title="All",Zee Keralam
 https://cflive-esports-hindi.zee5.com/out/v1/c2a01fab468b452d9af1a1aa66644d9d/Zee_Keralam_ME_SD/index.m3u8
 #EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-logo="https://i.imgur.com/uV3SgSb.jpg" group-title="All",Mazhavil Manorama
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
 #EXTINF:-1 tvg-id="AsianetPlus.in" tvg-logo="https://i.imgur.com/gEq5lHd.png" group-title="All",Asianet Plus
-https://segmentsecmpkgire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetplus_live_https/b0e52790-7929-4cfd-8e23-9c6e446d5293/0.m3u8?hdntl=exp=1685035509~acl=/*~data=hdntl~hmac=705a3f7549cb6f2a77ecdbc9bc38f5aa9861a3083d6fdd179a6a7e9507bf45aa
+https://mhdtvworld.org/tv/Stream1.php?id=my_asianet_plus&e=.m3u8
 #EXTINF:-1 tvg-id="Flowers.in" tvg-logo="https://i.imgur.com/kDgTzUm.jpg" group-title="All",Flowers TV
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
 #EXTINF:-1 tvg-id="AsianetMovies.in" tvg-logo="https://i.imgur.com/23ktt7p.png" group-title="All",Asianet Movies
-https://segmentsecmpkgire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_live_https/1f416de6-3b32-4a88-8b1f-b63a661aaa8a/3.m3u8?hdntl=exp=1685035509~acl=%2f*~data=hdntl~hmac=705a3f7549cb6f2a77ecdbc9bc38f5aa9861a3083d6fdd179a6a7e9507bf45aa
+https://mhdtvworld.org/tv/Stream1.php?id=my_asianet_movies&e=.m3u8
 #EXTINF:-1 tvg-id="Surya Movies" tvg-logo="https://i.imgur.com/jGyUuVU.jpg" group-title="All",Surya Movies
 https://crichd.gq/jiox/app/live/1754/Surya_HD/index.m3u8
 #EXTINF:-1 tvg-id="KairaliTV.in" tvg-logo="https://i.imgur.com/kVCJThg.jpg" group-title="All",Kairali TV
