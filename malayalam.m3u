@@ -25,15 +25,15 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 #EXTINF:-1 tvg-id="AsianetMovies.in" tvg-logo="https://i.imgur.com/23ktt7p.png" group-title="All",Asianet Movies
 https://mhdtvworld.org/tv/Stream1.php?id=my_asianet_movies&e=.m3u8
 #EXTINF:-1 tvg-id="Surya Movies" tvg-logo="https://i.imgur.com/jGyUuVU.jpg" group-title="All",Surya Movies
-https://crichd.gq/jiox/app/live/1754/Surya_HD/index.m3u8
+https://crichd.gq/jiox/app/live/1754/Surya_Movies/index.m3u8
 #EXTINF:-1 tvg-id="KairaliTV.in" tvg-logo="https://i.imgur.com/kVCJThg.jpg" group-title="All",Kairali TV
-https://crichd.gq/jiox/app/live/710/Surya_HD/index.m3u8
+https://crichd.gq/jiox/app/live/710/Kairali_TV/index.m3u8
 #EXTINF:-1 tvg-id="WeTV.in" tvg-logo="https://i.imgur.com/IxBTtib.jpg" group-title="All",We TV
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/wetv_nim_https/050522/wetv/playlist.m3u8
 #EXTINF:-1 tvg-id="SuryaMovies.in" tvg-logo="https://mhdtvworld.me/wp-content/uploads/2020/01/suryamusic1-1-185x278.jpg" group-title="All",Surya Music
-https://crichd.gq/jiox/app/live/747/Surya_HD/index.m3u8
+https://crichd.gq/jiox/app/live/747/Surya_Music/index.m3u8
 #EXTINF:-1 tvg-id="SuryaMovies.in" tvg-logo="https://mhdtvworld.me/wp-content/uploads/2020/04/suryacomedy-1-185x278.jpg" group-title="All",Surya Comedy
-https://crichd.gq/jiox/app/live/1662/Surya_HD/index.m3u8
+https://crichd.gq/jiox/app/live/1662/Surya_Comedy/index.m3u8
 #EXTINF:-1 tvg-id="AmritaTV.in" tvg-logo="https://i.imgur.com/UqxNPMZ.jpg" group-title="All",Amrita TV 
 https://dr1zhpsuem5f4.cloudfront.net/master_1000.m3u8
 #EXTINF:-1 tvg-id="SafariTV.in" tvg-logo="https://i.imgur.com/6Rm1v9C.jpg" group-title="All",Safari TV
@@ -91,15 +91,15 @@ https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0nNPsUI.jpg" group-title="All",Sony Six HD
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 #EXTINF:-1 tvg-id="SonyYAY.in" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kochu_TV.png" group-title="All",Kochu TV
-https://crichd.gq/jiox/app/live/556/Surya_HD/index.m3u8
+https://crichd.gq/jiox/app/live/556/Kochu_TV/index.m3u8
 #EXTINF:-1 tvg-id="SonyYAY.in" tvg-logo="https://i.imgur.com/3r99P9m.png" group-title="All",Sony YAY
 https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
 #EXTINF:-1 tvg-id="SonyYAY.in" tvg-logo="https://mhdtvworld.me/wp-content/uploads/2020/07/images-1-24.png.webp" group-title="All",Sonic Hindi
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="SonyYAY.in" tvg-logo="https://i.imgur.com/30JAHIO.png" group-title="All",Pogo TV Hindi
-https://crichd.gq/jiox/app/live/559/Surya_HD/index.m3u8
+https://crichd.gq/jiox/app/live/559/Pogo_TV_Hindi/index.m3u8
 #EXTINF:-1 tvg-id="SonyYAY.in" tvg-logo="https://mhdtvworld.me/wp-content/uploads/2021/08/cartnet-150x150.webp" group-title="All",Cartoon Network Hindi
-https://crichd.gq/jiox/app/live/816/Surya_HD/index.m3u8
+https://crichd.gq/jiox/app/live/816/Cartoon_Network_Hindi/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKids.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="All",Discovery Kids 
 https://raw.githubusercontent.com/IPTVVlogs/MAC-/main/discoverykidsmal.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKids.in" tvg-logo="https://mhdtvworld.me/wp-content/uploads/2020/01/wowkidzhindi.jpg" group-title="All",Wow Kidz
