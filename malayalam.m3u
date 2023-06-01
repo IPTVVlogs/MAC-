@@ -1,11 +1,3 @@
-#EXTINF:-1 tvg-id="StarSports1.in" tvg-logo="https://mhdtvworld.me/wp-content/uploads/2022/03/ipl-185x278.webp" group-title="All",Tata IPL 2023 - English
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Eng_HD_IDC_AND/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="StarSports1.in" tvg-logo="https://mhdtvworld.me/wp-content/uploads/2022/03/ipl-185x278.webp" group-title="All",Tata IPL 2023 - Malayalam
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Mal_HD_IDC_AND/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="StarSports1.in" tvg-logo="https://mhdtvworld.me/wp-content/uploads/2022/03/ipl-185x278.webp" group-title="All",Tata IPL 2023 - English Match 2
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/M2_IPL23_Eng_HD_IDC_AND/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="StarSports1.in" tvg-logo="https://mhdtvworld.me/wp-content/uploads/2022/03/ipl-185x278.webp" group-title="All",Tata IPL 2023 - Malayalam Match 2
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/M2_IPL23_Mal_HD_IDC_AND/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="Asianet.in" tvg-logo="https://i.imgur.com/k7ZNdbJ.png" group-title="All",Big Boss 5
 http://50.7.237.6:8080/ASIANETHD/index.m3u8
 #EXTINF:-1 tvg-id="Asianet" tvg-logo="https://i.imgur.com/p4Eulli.jpg" group-title="All",Asianet
