@@ -1,7 +1,7 @@
 #EXTINF:-1 tvg-id="Asianet.in" tvg-logo="https://i.imgur.com/k7ZNdbJ.png" group-title="All",Big Boss 5
-https://license.usftoolshub.site/rapiddemo/master.php?id=e89940a1e4680e498ce30834036e31ef&e=.m3u8
-#EXTINF:-1 tvg-id="Asianet" tvg-logo="https://i.imgur.com/p4Eulli.jpg" group-title="All",Asianet
-https://license.usftoolshub.site/rapiddemo/master.php?id=e89940a1e4680e498ce30834036e31ef&e=.m3u8
+https://dvr.anandmedia.net/anandmedia/asianethd_576/index.m3u8
+#EXTINF:-1 tvg-id="Asianet" tvg-logo="https://mhdtvworld.me/wp-content/uploads/2020/01/ASIAHD.webp" group-title="All",Asianet
+https://dvr.anandmedia.net/anandmedia/asianethd_576/index.m3u8
 #EXTINF:-1 tvg-id="Surya.in" tvg-logo="https://i.imgur.com/my7xncW.jpg" group-title="All",Surya HD
 https://www.livesportsclub.tk/jioplay/app/webapi.php?action=direct_play&c=900&@TheTechieSiaOfficial=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qM32TtN/h0cJG3U.png" group-title="All",Zee Keralam HD
