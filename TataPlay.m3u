@@ -97,7 +97,7 @@ https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_465/output/manifes
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vtvi44BOxXl3xURgE0BxHw", "kid":"HQykcKQ7Rxm42YYDdBXr3w" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="436" group-title=" Knowledge" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11709-j9kt6bg0-v1/imageContent-11709-j9kt6bg0-m1.png" ,Safari TV
+#EXTINF:-1 tvg-id="436" group-title=" Regional Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11709-j9kt6bg0-v1/imageContent-11709-j9kt6bg0-m1.png" ,Safari TV
 https://delta7tatasky.akamaized.net/out/i/2734019.mpd
 
 
