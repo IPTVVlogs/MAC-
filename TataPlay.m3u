@@ -359,6 +359,9 @@ https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"keys":[ {"kty":"oct","k":"zk+ci04xkEhXCJw3hYwsKg","kid":"SY80+aH+SuOrGZAwkGdaGw"}]}
 #EXTINF:-1 tvg-id="Sports" tvg-name="Star Sports 1 English" group-title="Sports" group-logo="https://static5.tgstat.ru/channels/_0/36/36ee331fc7a3cfca6f7e9e61aca4c2a8.jpg" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",Star Sports 1 English
 https://delta14tatasky.akamaized.net/out/i/7136433.mpd
+
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
