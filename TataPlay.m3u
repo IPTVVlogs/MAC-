@@ -279,6 +279,12 @@ https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_925/output/manifes
 https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_405/output/manifest.mpd
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"m4Fkcvenfuv7BKoXJqUM9g", "kid":"d94ofhBLXDadVUvpNk6NNg" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="45" group-title=" Kids" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-132-j5fpedbs-v4/imageContent-132-j5fpedbs-m6.png" ,Sony YAY
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_365/output/manifest.mpd
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lLpORu1Uz/9ivtC+q+ctOQ", "kid":"xzBxM7bbTjW6FVQOHCEVCg" } ], "type":"temporary" }
