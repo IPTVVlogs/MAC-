@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-id="Asianet.in" tvg-logo="https://i.imgur.com/k7ZNdbJ.png" group-title="All",Big Boss 5
-http://50.7.237.11:8080/ASIANETHD/tracks-v1a1/index.m3u8
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_464/output/manifest.mpd
 #EXTINF:-1 tvg-id="Asianet" tvg-logo="https://i.imgur.com/1ZSBx9X.png" group-title="All",Asianet
 http://50.7.237.11:8080/ASIANETHD/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="Surya.in" tvg-logo="https://i.imgur.com/my7xncW.jpg" group-title="All",Surya HD
